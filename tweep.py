@@ -94,9 +94,9 @@ async def getTweets(init):
 			output = "{} {} {} {} <{}> {}".format(tweetid, date, time, timezone, username, text)
 
 		if arg.o != None:
-			print(output, file=open(arg.o, "a"))
+			print(output.encode('ascii', 'ignore').decode('ascii'), file=open(arg.o, "a"))
 
-		print(output)
+		print(output.encode('ascii', 'ignore').decode('ascii'))
 
 	return tweets, init
 
