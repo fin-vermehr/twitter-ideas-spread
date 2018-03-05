@@ -32,9 +32,10 @@
 
 \section{Introduction}
 
-Define vectors $\textbf{h}$, $\textbf{p}$ and matrix $\textbf{A}$. Let all $ h_i \in \textbf{h}$ be popular hashtags of 2017, so $\textbf{h}$ contains all major hashtags. Let all $p_i \in \textbf{p}$ describe the popularity of its corresponding hashtag $h_i$, so $\textbf{p}$ contains the popularity of the hashtags. Then let all vectors $\vec{a_i} \in \textbf{A}$ contain the accounts that retweeted hashtag $h_i$. Thus $a_{if}$ contains an account that retweeted $h_i$.\\
+Define vectors $\textbf{h}$, $\textbf{p}$ and matrix $\textbf{A}$. Let all $ h_i \in \textbf{h}$ be popular hashtags of 2017, so $\textbf{h}$ contains all major hashtags. Let all $p_i \in \textbf{p}$ describe the popularity of its corresponding hashtag $h_i$, so $\textbf{p}$ contains the popularity of the hashtags. Then let all vectors $\vec{a_i} \in \textbf{A}$ contain the accounts that retweeted hashtag $h_i$. Thus $a_{if}$ contains a single account that retweeted $h_i$.\\
 \\
 For each $h_i$ find a coefficient $r_{ij} = r_{ji}$ describing the relatedness between the $h_i, h_j$. This coefficient should be calculated from how often accounts in $\vec{a_i}$ retweet $h_j$ and how often accounts in $\vec{a_j}$ retweet $h_i$. In other words, the coefficient ${r}_{ij}$ is determined is by looking at the overlap between $\vec{a_j}$ and $\vec{a_i}$. Using this coefficient, plot a network graph like the following:
+
 \begin{figure}[h]
 \caption{Example of Network Graph}
 \centering
@@ -51,14 +52,14 @@ Next we must try to describe the underlying diffusion between these ideas. The S
 
 
 
- There would for example be the idea of pro-abortion and anti-abortion. Therefore we would have an SIResque model that has the S, which are the susceptible, I which are the infected, and D which are the disbelievers. One problem that has to be resolved, is how to find opposing ideas.
-\[
-  \begin{cases}
-                                   \dot{S} &= \Lambda - \beta S \frac{1}{N} - bS \frac{Z}{N} - \mu S, \\
-                                   \dot{I} &= \beta S \frac{I}{N} - \mu I \\
-                                   \dot{Z} &= bS\frac{Z}{N} - \mu Z
-  \end{cases}
-\]
-where $b$ and $\beta$ denote the per capita rates of idea rejection and adoption by susceptible respectively. $\Lambda$ is the recruitment rate, $
+% There would for example be the idea of pro-abortion and anti-abortion. Therefore we would have an SIResque model that has the S, which are the susceptible, I which are the infected, and D which are the disbelievers. One problem that has to be resolved, is how to find opposing ideas.
+%\[
+%  \begin{cases}
+%                                   \dot{S} &= \Lambda - \beta S \frac{1}{N} - bS \frac{Z}{N} - \mu S, \\
+%                                   \dot{I} &= \beta S \frac{I}{N} - \mu I \\
+%                                   \dot{Z} &= bS\frac{Z}{N} - \mu Z
+%  \end{cases}
+%\]
+%where $b$ and $\beta$ denote the per capita rates of idea rejection and adoption by susceptible respectively. $\Lambda$ is the recruitment rate, 
 
 \end{document}
