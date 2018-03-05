@@ -6,10 +6,10 @@ import time
 # Donald_prototype = '@realDonaldTrump'
 def get_followers(username):
 
-    key1 = "k"
-    key2 = "k"
-    key3 = "k"
-    key4 = "k"
+    key1 = "LkK6GlKXxDuqmeThRhca4PbN0"
+    key2 = "5XFYpsQ5fuTwAwJ0xIwDjXHRrFjWwehZwMciwZfyZrEBlSIUHA"
+    key3 = "3253298310-DECk7ejxDhudH5Pp6RJ4gfu1xrktfee4uyrbOt5"
+    key4 = "YTS6QOVykC7z4DCDONfGXWXiRTFTghFh9XsSzv5QKpR23"
 
     accountvar = username
 

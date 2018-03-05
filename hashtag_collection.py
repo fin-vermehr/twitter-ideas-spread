@@ -82,5 +82,8 @@ def write_data(write_to, read_from):
 
 
 def raw_data(twitter_username):
-    os.system("python3 tweep.py -u " + twitter_username + " -o " + twitter_username + "_raw_data.txt --since 2016-01-20")
-    write_data(twitter_username + '_processed', twitter_username + "_raw_data.txt")
+    os.system("python3 tweep.py -u " + twitter_username + " -o " + 'raw_data_of_person/' + twitter_username + "_raw_data.txt --since 2016-01-20")
+    try:
+        write_data(twitter_username + '_processed', 'raw_data_of_person/' + twitter_username + "_raw_data.txt")
+    except:
+        IOError

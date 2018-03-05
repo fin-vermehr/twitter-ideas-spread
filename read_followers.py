@@ -1,18 +1,19 @@
 from hashtag_collection import raw_data
+import sys
 
 
-with open('followers_of_person/@Emma4Change_followers.txt') as f:
-    content = f.readlines()
 
-emma_folowers = [x.strip() for x in content]
-print('Emma4Change: ' + str(len(content)))
+def main():
+    username = sys.argv[1]
+    beginning = sys.argv[2]
+    end = sys.argv[3]
 
-with open('followers_of_person/@DLoesch_followers.txt') as f:
-    content = f.readlines()
+    with open('followers_of_person/' + username + '_followers.txt') as f:
+        content = f.readlines()
 
-loesch_followers = [x.strip() for x in content]
-print('@DLoesch: ' + str(len(content)))
+    followers = [x.strip() for x in content]
+    for user in followers[int(beginning):int(end)]:
+        raw_data(user)
 
-
-for user in emma_folowers[:5]:
-    raw_data(user)
+if __name__ == "__main__":
+    main()
