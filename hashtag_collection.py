@@ -81,9 +81,16 @@ def write_data(write_to, read_from):
             writer.writerow({'ID': line[0], 'Date': line[1], 'Time': line[2], 'Time_Zone': line[3], 'Username': line[4].replace('<', '').replace('>', ''), 'Tweet': line[5], 'Hashtags': hashtags})
 
 
-def raw_data(twitter_username):
-    os.system("python3 tweep.py -u " + twitter_username + " -o " + 'raw_data_of_person/' + twitter_username + "_raw_data.txt --since 2016-01-20")
+def raw_data(twitter_username, parent):
+    if not os.path.exists('raw_data_of_person/' + parent):
+        print ('Making Directory raw_data_of_person/' + parent)
+        os.makedirs('raw_data_of_person/' + parent)
+    if not os.path.exists('tweets_of_person/' + parent):
+        print ('Making Directory tweets_of_person/' + parent)
+        os.makedirs('tweets_of_person/' + parent)
+
+    os.system("python3 tweep.py -u " + twitter_username + " -o " + 'raw_data_of_person/' + parent + '/' + twitter_username + "_raw_data.txt --since 2016-01-20")
     try:
-        write_data(twitter_username + '_processed', 'raw_data_of_person/' + twitter_username + "_raw_data.txt")
+        write_data(parent + '/' + twitter_username + '_processed', 'raw_data_of_person/' + parent + '/' + twitter_username + "_raw_data.txt")
     except:
         IOError
