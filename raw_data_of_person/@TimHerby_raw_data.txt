@@ -1,0 +1,17 @@
+963922242697490432 2018-02-14 23:45:46 UTC <TimHerby> @mshwery @SlackHQ Still waiting for this so we can have a sound when we deploy new code or make a sale.  @slackhq, any update?
+849667211220336640 2017-04-05 16:57:03 UTC <TimHerby> So proud of our launch:https://www.fastcompany.com/40401906/gina-bianchini-is-taking-on-facebook-once-again-with-mighty-networks
+849646171295432705 2017-04-05 15:33:27 UTC <TimHerby> @SlackHQ Thank you, filed.  Hoping you can get to this soon as it affects live site: https://mightybell.slack.com/help/requests/1299157
+849644904644960257 2017-04-05 15:28:25 UTC <TimHerby> @SlackHQ Wasn't clear 2 weeks ago when we changed the settings.  FB, LinkedIn don't approve for Oauth changes, can pls you expedite review? A0BTHJVNK
+849639119328165888 2017-04-05 15:05:26 UTC <TimHerby> @SlackHQ Help! Need to update my redirectURL for OAuth ASAP as my live domain changed.  Do I need app approval? How can I do it right now?
+828303514740813824 2017-02-05 18:05:21 UTC <TimHerby> Hey, so-called @POTUS, you must have misunderstood what race you were in, you "won" the presidency, not a dictatorship #resist
+801301854839853056 2016-11-22 05:50:24 UTC <TimHerby> @imgix bummer your status page also relies on NS1 DNS lookup, so I can't reach it either.  I do see the outage directly on NS1 status pagepic.twitter.com/3OpZOq5iug
+761700782441836544 2016-08-05 23:09:52 UTC <TimHerby> Nicely done, @MSNBC doing realtime fact-checking!https://twitter.com/GSorensen/status/761285498560188416
+756978713636409344 2016-07-23 22:26:03 UTC <TimHerby> Wow, @AMCTheatres just double-charged me, and still on hold 30 minutes later, only way to get a refund #PoorCustomerService
+739507999635439616 2016-06-05 17:23:41 UTC <TimHerby> @LinkedIn Seriously, @linkedin, every time I use your app I have to sign in again #notworththeeffort
+733741333152698368 2016-05-20 19:29:00 UTC <TimHerby> Thanks @evernotehelps it was in the trash.  Now the mystery is why it ended up there after rebooting my computer.  I contacted support
+733711240443256832 2016-05-20 17:29:26 UTC <TimHerby> Woke up this morning and @evernote lost all my data since March!  And they want $$ for realtime support, bad time to ask for $$... :-(
+733707600613789696 2016-05-20 17:14:58 UTC <TimHerby> Gee, thanks @Yahoo what am I supposed to do with this? #notificationfailpic.twitter.com/mRXa7v3web
+711596969811030016 2016-03-20 16:55:13 UTC <TimHerby> BuddyExpress: Monetizing extra luggage space through crowdsourced shipping via @kwdinc on @ProductHunthttps://www.producthunt.com/tech/buddyexpress
+706583632912076801 2016-03-06 20:54:00 UTC <TimHerby> @steam_games your sign-up is broken "Your account creation request failed, please try again later." - any ideas how to get around it?
+706579713322430464 2016-03-06 20:38:25 UTC <TimHerby> @Steam_Support your site is broken, can't sign up on 3 machines "Your account creation request failed, please try again later." Que pasa?
+698996066276941825 2016-02-14 22:23:43 UTC <TimHerby> @AmericanAir change fees are exorbitant! More than my tickets - paid $1500 one way, $300 return on @united #airlineripoff #americanairlines
