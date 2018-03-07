@@ -1,0 +1,5 @@
+ID,Date,Time,Time_Zone,Username,Tweet,Hashtags
+970089505804857344,2018-03-03,00:12:16,UTC,gevernon1957,"Hello Twitter! #myfirstTweet
+",myfirstTweet
+969975644355350529,2018-03-03,16:39:49,UTC,gevernon1957,"@HPSupport cannot load drivers and this is the second HP printer I'm having problems with  #hppsdr #ijkhelp
+","['hppsdr', 'ijkhelp']"
