@@ -1,0 +1,3 @@
+807850944302084097 2016-12-10 07:34:08 UTC <landriesse> @iwanverrips Bedankt, Iwan
+804643969669808128 2016-12-02 11:10:46 UTC <landriesse> @BNR Jullie hadden het vanochtend over een ouderwets uitziende radio die ook op internet kan. Welk merk/type was dat?
+778460196842549250 2016-09-20 05:05:48 UTC <landriesse> @Tele2Webcare Geen internet is Oss. Modem gereset. Connectivity test: fault DNS Server 1 (62.58.48.30), DNS Server 2 (62.58.153.220)
