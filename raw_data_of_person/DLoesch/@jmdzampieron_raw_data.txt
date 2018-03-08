@@ -1,0 +1,39 @@
+971143604004622336 2018-03-06 22:00:52 UTC <jmdzampieron> Wishing @Azure had an S3 compatible API for Azure Blob Storage...
+970803771600228358 2018-03-05 23:30:30 UTC <jmdzampieron> Beco is helping work work better!https://open.microsoft.com/2018/03/05/startup-beco-built-iot-cloud-azure/
+967843414988541952 2018-02-25 19:27:06 UTC <jmdzampieron> Beco is Hiring! Join us in changing how work works!https://angel.co/beco-2
+966654345935810563 2018-02-22 12:42:10 UTC <jmdzampieron> Been running some in development microservices in 2.0.0-RC2. Like the experience. Really like where WebFlow/Reactor is and is going.https://twitter.com/snicoll/status/966355424260837381
+963504580570042368 2018-02-13 20:06:07 UTC <jmdzampieron> Starting to teach myself to use Seastar from @ScyllaDB for high-concurrency, low-latency micro-services.  Next thought... how to use DPDK in containers...
+953997845094428672 2018-01-18 14:29:45 UTC <jmdzampieron> @jessfraz Bought one of these nearly 20 years ago: https://www.middleatlantic.com/products/racks-enclosures.aspx Still like it.
+953638445527781377 2018-01-17 14:41:37 UTC <jmdzampieron> @jessfraz In many non-Software Engineering disciplines this has been referred to as "intrinsically safe design" for decades.
+952301911016951808 2018-01-13 22:10:43 UTC <jmdzampieron> @jessfraz I am reminded of: "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." and "It has become appallingly obvious that our technology has exceeded our humanity." and "Any fool can know. The point is to understand." - Albert Einstein
+952193847655915520 2018-01-13 15:01:18 UTC <jmdzampieron> @alicegoldfuss You should add: Computer Architecture: A Quantitative Approach by Hennessy and Patterson.   Same Hennessy who was the President of Stanford and the founder of MIPS.
+948174172437516288 2018-01-02 12:48:33 UTC <jmdzampieron> @jessfraz Considering Total Cost of Ownership / Value Prop is important. Things that are core to our business we make. Buying Infra products keeps us focused and on task.
+947111559133913088 2017-12-30 14:26:06 UTC <jmdzampieron> One of those days when you miss ZModem.
+936948092351467520 2017-12-02 13:20:07 UTC <jmdzampieron> Props to @NASA on an amazing job engineering Voyager 1.https://www.jpl.nasa.gov/news/news.php?release=2017-310
+931974984335089664 2017-11-18 19:58:46 UTC <jmdzampieron> @alicegoldfuss File Systems and most RDBMS (e.g. postgres), amongst other things.
+930576168692088833 2017-11-14 23:20:22 UTC <jmdzampieron> @Azure @HashiCorp @listonb Running #DCOS on #Azure using #Terraform. The basic features of #Azure are well covered. Some semantics of when a resource is marked dirty may need updates. Getting better all the time. Always looking for more fine grained control over "apply" (i.e. rolling updates).
+922830952371539970 2017-10-24 14:23:39 UTC <jmdzampieron> My corollary to Knuths law: Premature scaling is the root of all evil
+921462315307945984 2017-10-20 19:45:10 UTC <jmdzampieron> Some days you long for real hardware instead of the cloud.
+918268103385145344 2017-10-11 00:12:31 UTC <jmdzampieron> Tech recruiter: Tries to get a SRE/DevOps interview for someone with automaton skills. The position is not with a robotics company.
+917876988735606790 2017-10-10 22:18:22 UTC <jmdzampieron> @leifwalsh Do I have to be to participate in a casual, polite conversation? There's piles of empirical evidence to support my opinion.
+917423598343778309 2017-10-09 16:16:45 UTC <jmdzampieron> @leifwalsh Applying inflexible process like this to fix a human problem usually trends toward mediocrity.
+916314725327233025 2017-10-06 14:50:29 UTC <jmdzampieron> @hellobeco @margaret_davis Excited to be growing out our DevOps/SRE team. Come help us change how work works.
+914531409053831168 2017-10-01 16:44:13 UTC <jmdzampieron> Time for the limit ICE/CBP bill. No jurisdiction or authority outside enumerated border crossings and only within the immediate travel zone.
+914530927346421761 2017-10-01 16:42:18 UTC <jmdzampieron> http://www.unionleader.com/crime/feds-at-it-again-with-roadblock-across-i-93-to-screen-motorists-20170927  This is insane. There's no border crossing within 90 miles of there... it's a major interstate.
+912031078076108800 2017-09-24 19:08:48 UTC <jmdzampieron> Learn how Beco is changing the workplace: https://www.beco.io/2017/09/24/5-events-fall-can-see-beco-action/
+910135177321631744 2017-09-19 13:35:10 UTC <jmdzampieron> https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership
+903613199844614145 2017-09-01 13:39:09 UTC <jmdzampieron> There are still times when doing devops that I'd find it really handy if the Mac terminal supported zmodem.
+901138049920376832 2017-08-25 17:43:48 UTC <jmdzampieron> @jessfraz In the old days we'd symlink ~/.bash_history to /dev/null ...
+900534928483528704 2017-08-23 01:47:12 UTC <jmdzampieron> @jessfraz Built in help and parameter/operation reference.
+898225762704257024 2017-08-17 16:51:24 UTC <jmdzampieron> I read a lot of news around data, and big data and the new data economy. Information is the actual value. Data must be informative.
+853938619152830464 2017-04-17 11:50:06 UTC <jmdzampieron> Idea of the day for @amazon ... subscribe and save for OTC medications that expire. Drives me nuts remembering to buy more cold meds.
+836583805687300097 2017-02-28 14:28:16 UTC <jmdzampieron> Beco (@hellobeco) is hiring a Full-Stack Software Engineer (Cloud Microservices) in Boston! Apply now! https://angel.co/l/YafgE
+811938195789193216 2016-12-22 14:15:25 UTC <jmdzampieron> @hellobeco mentioned in the Globe. Happy to be part of the growing Alexa community.http://www.bostonglobe.com/business/2016/12/22/alexa-what-local-companies-are-working-make-you-better/psIk2kkvGTKtQ6AOJkgzGN/story.html
+778687292273627136 2016-09-21 20:08:12 UTC <jmdzampieron> @TomZampini hanging out at @FoleyTech today. #IoThttps://twitter.com/hellobeco/status/778686527379431424
+754724576911699968 2016-07-17 17:08:55 UTC <jmdzampieron> Anyone using the Beco App via Test Flight can switch to the Apple App Store: https://itunes.apple.com/us/app/beco/id1082679592?ls=1&mt=8
+747154096440827904 2016-06-26 19:46:32 UTC <jmdzampieron> Beco Focuses on Developing a Spatially-Aware Alexa Skill https://developer.amazon.com/post/Tx1BPHXBLZV5ZVN/Beco-Focuses-on-Developing-a-Spatially-Aware-Alexa-Skill via @AmazonAppDev
+740625903840026624 2016-06-08 19:25:50 UTC <jmdzampieron> Connecting the Digital World and Your Workplacehttp://workdesign.com/2016/06/connecting-digital-world-workplace/
+733659409679810560 2016-05-20 14:03:28 UTC <jmdzampieron> https://m.youtube.com/watch?v=vyfy7AdPk2g&feature=youtu.be -> Scott Jensen talks about @hellobeco at #io16 -> 31 minutes.
+723131264669097984 2016-04-21 12:48:23 UTC <jmdzampieron> Leveraging the power of Beco and Alexa to bring physical spaces into the cloud. https://lnkd.in/ejq4Mni
+714801855344168960 2016-03-29 13:10:17 UTC <jmdzampieron> Looking for a software engineer for a great start-up opportunity. https://lnkd.in/eXHM9SC
+699948306722635776 2016-02-17 13:27:35 UTC <jmdzampieron> Beco, Aisle411 Partner to Deliver Location Analytics Powered by Light -- ST. LOUIS, Feb. 17, 2016 /PRNewswire/  ...http://prn.to/1QIpHMP

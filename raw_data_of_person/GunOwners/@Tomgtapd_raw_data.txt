@@ -1,0 +1,348 @@
+967735670985908224 2018-02-25 12:18:58 UTC <Tomgtapd> RAINBOW SIX Lights go Down: http://youtu.be/GVKK1Vbi8H0?a ber @YouTube
+967603656454561793 2018-02-24 03:34:23 UTC <Tomgtapd> RAINBOW SIX Lights go Down: http://youtu.be/HG3tYv8Hbks?a ber @YouTube
+948296158841135104 2018-01-02 20:53:17 UTC <Tomgtapd> For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,https://twitter.com/Tomgtapd/status/948250281665589249
+948296099504287744 2018-01-02 20:53:03 UTC <Tomgtapd> @Rainbow6Game For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948293381549187073 2018-01-02 20:42:15 UTC <Tomgtapd> @Ubisoft @XGamerPT_17 For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948293292491407361 2018-01-02 20:41:54 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi @NoelKra_ For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948292798226358272 2018-01-02 20:39:56 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91
+948292512984256513 2018-01-02 20:38:48 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem  https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c9.  Probably Swisscom Testing smth,
+948262235528482816 2018-01-02 18:38:29 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi On top of that people have posted solutions regarding the matter by entering a prefered DNS Server in their network configuration such as 8.8.8.8 and 8.8.4.4
+948253555059838976 2018-01-02 18:03:59 UTC <Tomgtapd> Same here.https://twitter.com/ItsEpi/status/948173560278867969
+948250281665589249 2018-01-02 17:50:59 UTC <Tomgtapd> @Rainbow6Game Stuck on Validating Playlists and Properties for 2 days now. Reinstalled Windows and tried all fixes currently known. Talked to my ISP and they are saying it's a server-related Issue please look into this.
+924753343590948864 2017-10-29 21:42:32 UTC <Tomgtapd> @Rainbow6Game Had a terrible game thanks to some Ping abuser in my Ping, violently insulting everyone and teamkilling, can I report him?
+924610878150004737 2017-10-29 12:16:26 UTC <Tomgtapd> [Rainbow6SIEGE] Trigger: http://youtu.be/pOYzoDDBxmc?a ber @YouTube
+924588488514785280 2017-10-29 10:47:28 UTC <Tomgtapd> R6S Trigger v2: http://youtu.be/SteCfAHZTa4?a ber @YouTube
+924471634932756480 2017-10-28 03:03:08 UTC <Tomgtapd> R6S: Trigger: http://youtu.be/qUemrAmTZQo?a ber @YouTube
+924252617802440704 2017-10-28 12:32:50 UTC <Tomgtapd> @UbisoftSupport Do you plan on doing somehting about the R6S Temporal Filtering issue
+924252519009869824 2017-10-28 12:32:26 UTC <Tomgtapd> @Rainbow6Game Are you planning on releasing a Blog Post about the temporal filtering issue that can potentially render the game unplayable?
+924252105388494848 2017-10-28 12:30:48 UTC <Tomgtapd> @BlouPenguin Yo Pengu, do you disagree with the removal of temporal filtering? Can you please help them change it! I beg you
+924024055946235904 2017-10-27 21:24:37 UTC <Tomgtapd> @Rainbow6Game I can't play the game since the last update because of the rendering method that was removed. Please help me RainbowSixGame
+923845814816071680 2017-10-27 09:36:21 UTC <Tomgtapd> @Rainbow6Game Since I can't play the game stable because of the removal of Temporal Filtering, would you be so kind to work on a solution?
+923841635561156608 2017-10-27 09:19:44 UTC <Tomgtapd> @BlouPenguin You don't support the removal of temoporal Filtering right?https://www.change.org/p/rainbow6game-r6s-revert-the-temporal-filtering-change-that-came-with-operation-blood-orchid
+923839699088760832 2017-10-27 09:12:03 UTC <Tomgtapd> @Rainbow6Game I can't play the game since Temporal Filtering was removed (now 50 fps),  Subreddit thinks the same. Can you please fix this?
+923832079669977090 2017-10-27 08:41:46 UTC <Tomgtapd> Don't support the removal of temporal Filtering hence performance loss? SIGN This Petition to force a Revertion!http://chn.ge/2yVfWN8
+923824092293234688 2017-10-27 08:10:02 UTC <Tomgtapd> @UbiJustin Any updates?https://twitter.com/UbiJustin/status/902675554666733569
+923322293417279489 2017-10-25 22:56:03 UTC <Tomgtapd> @Rainbow6Game Dear Rainbow Six Siege Game Developers, the community has highly requested that the Temporal Filtering is brought back. Please
+923246951021367297 2017-10-25 17:56:40 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/qo6ygYSxwEY?a Gioni - Trigger
+915813742813876226 2017-10-04 05:39:45 UTC <Tomgtapd> Ich habe ein Video zu einer @YouTube-Playlist hinzugefgt: http://youtu.be/dmXgDVEhC1U?a Grandtheft & Delaney Jane - Easy Go
+909362969305284608 2017-09-17 10:26:41 UTC <Tomgtapd> Siege Comp 1 New pc: http://youtu.be/GcTM-wabjn8?a ber @YouTube
+899296840352444418 2017-08-20 15:47:29 UTC <Tomgtapd> Tom Clancy's Rainbow Six Siege 08 20 2017 16 31 28 13 DVR: http://youtu.be/8ZMRmYryqfo?a ber @YouTube
+898678000702672896 2017-08-18 22:48:26 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/EALgD9ZjFyo?a NOW - Heart Of Gold (Vlog No Copyright Music)
+898677973687062528 2017-08-18 22:48:20 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/VUZmwZ6aPVE?a Disclosure - Latch (Ehrling Remix) (Vlog No Copyright Music)
+890504500863283200 2017-07-27 09:29:52 UTC <Tomgtapd> @comcast @KingGeorgeTV @nvKing_ @IllianMax 1&1
+886041794370306048 2017-07-14 01:56:40 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/OW_g5muJvek?a [ASMR] Unboxing Over 100+ Extremely Rare Yu-Gi-Oh Cards
+885832671301185537 2017-07-14 12:05:41 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/qeM8NkLwhdU?a M - Nights With You (Cheat Codes Remix)
+885241167855669249 2017-07-12 20:55:16 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/CDG5vaJt5QI?a M - Final Song (Welshy Bootleg)
+885240906839990272 2017-07-12 20:54:13 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/zfw1vFbPf8s?a Lady Gaga - The Cure (JJChan Trap Remix)
+885240168076201984 2017-07-12 20:51:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/yCuOucUgB0k?a M - Final Song (OutaMatic Remix)
+880784186315034625 2017-06-30 13:44:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/_BaqecVhk9A?a Robin Schulz  OK (feat. James Blunt) (Bourne Again X Valdo Bootleg)
+880242447846166528 2017-06-28 01:52:08 UTC <Tomgtapd> [Rainbow Six Siege] COMP #4: http://youtu.be/Y-MlKZaT9GQ?a ber @YouTube
+880200916653285376 2017-06-28 23:07:06 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/i95Nlb7kiPo?a Rita Ora - Your Song (Official Lyric Video)
+879058874489339904 2017-06-25 19:29:02 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/dT2owtxkU8k?a Shawn Mendes - There's Nothing Holdin' Me Back
+879058831623507968 2017-06-25 19:28:52 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Dw8B1q1tKgs?a Little Mix - Power (Official Video) ft. Stormzy
+877916269357309952 2017-06-22 15:48:44 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/6mTqqloMDjI?a Hailee Steinfeld - Most Girls (Audio)
+877915656573796353 2017-06-22 15:46:18 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/AVG8UXHNGFA?a Train - Hey, Soul Sister (Psyrex Remix)
+877915619714375683 2017-06-22 15:46:09 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/4emTtmbUwtI?a B.o.B - Airplanes ft. Hayley Williams (AndyWho Remix)
+877910340951916544 2017-06-22 15:25:10 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/rGlEZpOVjGo?a Imagine Dragons - Whatever It Takes (Audio)
+876440434825973761 2017-06-18 14:04:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/mVx3z2nNF44?a ANGL - FireBurst (Non Copyrighted Dubstep) {FT Release}
+874951983249141761 2017-06-14 11:29:43 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/IoMndcvmV2g?a Prefekt - Numb ft. Johnning (Non Copyrighted Dubstep) [Bro-Step]
+874274176672124928 2017-06-12 14:36:21 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/I9LimwJ2GmQ?a Two Feet - Go F*ck Yourself [Bass Boosted]
+874273883578355712 2017-06-12 14:35:11 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/D_VRSFpUcp0?a Wiz Khalifa & Iggy Azalea  Go Hard or Go Home [Furious 7 Soundtrack]
+874273014283722752 2017-06-12 14:31:44 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/jVOimXPdIDQ?a 1. Flo Rida - Whistle (Audio)
+874272715716382720 2017-06-12 14:30:33 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/tmPm5iYOklg?a Fetty Wap - Trap Queen (Crankdat Remix)
+874272683097239553 2017-06-12 14:30:25 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/vZv9-TWdBJM?a Dr. Dre - The Next Episode (San Holo Remix)
+874272421544697860 2017-06-12 14:29:23 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/d7o8Zqh3JYQ?a Can't Stop Won't Stop - Mighty & High
+874269451180441601 2017-06-12 14:17:34 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xydf351l-gw?a The Score - Unstoppable (Audio)
+873938027915210752 2017-06-11 16:20:37 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/taCRBFkUqdM?a e-dubble - Let Me Oh (Freestyle Friday #9)
+873847097019310080 2017-06-11 10:19:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/AYKYvVkhIYo?a e-dubble - Be A King
+873845342764224514 2017-06-11 10:12:19 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/o95ZTp5fuF8?a Antiserum & Mayhem - Trippy
+873844740407644160 2017-06-11 10:09:56 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/mKzLoZFz8PE?a Marshmello - Keep it Mello ft. Omar LinX (Official Music Video)
+873541850040336384 2017-06-10 14:06:21 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/UvD7nmXysNI?a P-Holla - Do it For Love
+873540991638286336 2017-06-10 14:02:56 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/xcKPyEy5quE?a Krewella - Parachute
+873540322147663874 2017-06-10 14:00:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/85ftfVUTzM4?a Cash Cash - Overtime
+873540154635452416 2017-06-10 13:59:37 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/jecQcgbyetw?a The Score - Legend (Audio)
+873540095177109505 2017-06-10 13:59:22 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/b99r48grKGI?a The Score - Revolution (Audio)
+873539811084259328 2017-06-10 13:58:15 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/h_zd8VN6HRg?a Astrid S - Breathe (Lauv Remix)
+871787420425093120 2017-06-05 17:54:52 UTC <Tomgtapd> Siege comp3: http://youtu.be/w_qzY2oH83k?a ber @YouTube
+871379648151769090 2017-06-04 14:54:32 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Ssb94_9SAwE?a The Chainsmokers ft. Daya - Don't Let Me Down (W&W Remix)
+871379482736816129 2017-06-04 14:53:52 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/D-sVqD4Xtfo?a Massive Vibes - Burn The Stars
+871379283683549186 2017-06-04 14:53:05 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xydf351l-gw?a The Score - Unstoppable (Audio)
+871379241363025920 2017-06-04 14:52:55 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/fU8qg5nP2h0?a Martin Garrix & Troye Sivan - There For You (BigNSmall X Zak Remix)
+871379072693284868 2017-06-04 14:52:15 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/S_DSqeCIpPQ?a Zedd, Alessia Cara - Stay (Tritonal Remix)
+871379006985261058 2017-06-04 14:51:59 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/nEt1bKGlCpM?a Virtual Riot - Idols (EDM Mashup)
+871378937720565761 2017-06-04 14:51:42 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xkm8mGlfm9w?a 20syl - Ongoing Thing feat. Oddisee
+871378853830197248 2017-06-04 14:51:22 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/oApfRDRp4s8?a Kendrick Lamar - Sing That Shit (20syl Juicy Remix)
+871378708833107968 2017-06-04 14:50:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/uCvPNdPkaDk?a Martin Garrix & Dua Lipa - Scared To Be Lonely
+871378621025460224 2017-06-04 14:50:27 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/GpVz5_7fzVA?a Joel Adams Please Don't Go (Afterfab Remix)
+864914299080376320 2017-05-17 18:43:32 UTC <Tomgtapd> [Rainbow Six Siege] COMP #2: http://youtu.be/cXm5eUiwjaE?a ber @YouTube
+861161069968019456 2017-05-07 10:09:33 UTC <Tomgtapd> [R6S[ A Siege Funtage: http://youtu.be/FrXdXdU2ADA?a ber @YouTube
+858049873165377537 2017-04-28 20:06:46 UTC <Tomgtapd> roflhttps://twitter.com/DarkUmamA/status/858031572670394368
+853931986079166466 2017-04-17 11:23:45 UTC <Tomgtapd> It's been ages but I'm super hyped to come back to @DOJRolePlay @LCDoJRPClan @DaMomsMom @Bakey25 @Polecat324. Maybe you remember me!
+820443381662908416 2017-01-14 01:31:59 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/2u7fxDvumWw?a The distraction tactic! - Rainbow Six Siege
+817453873287733248 2017-01-06 19:32:45 UTC <Tomgtapd> ENJOY!? http://youtu.be/UcPUxnuE3l8?a
+808351473901961217 2016-12-12 16:43:04 UTC <Tomgtapd> -
+806923604139143168 2016-12-08 18:09:13 UTC <Tomgtapd> LS-RP: LSPDMetropolitan division SEQUENCE 1: http://youtu.be/JxqB6Xf9NSo?a ber @YouTube
+802632010804162560 2016-11-26 21:55:58 UTC <Tomgtapd> Overdose 1.6 New for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/mods/55218-overdose-16-new.html
+802631956949123072 2016-11-26 21:55:45 UTC <Tomgtapd> Overdose 1.6 New for GTA San Andreas http://www.gtaall.com/gta-san-andreas/mods/55218-overdose-16-new.html
+800666771787284480 2016-11-21 11:46:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/iUbPHHFWP-A?a Rainbow Six Siege Song | Rainbows In The Dark | #NerdOut!
+800666712962113536 2016-11-21 11:46:34 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/z9pIvKHSCP0?a BATTLEFIELD 1 vs INFINITE WARFARE | Dan Bull vs Idubbbz rap battle
+793060714516586496 2016-10-31 12:03:03 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Io0fBr1XBUA?a The Chainsmokers - Don't Let Me Down ft. Daya
+793060664218558464 2016-10-31 12:02:51 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Oy7ALgpBsG4?a I Know What You Did Last Summer - Shawn Mendes & Camila Cabello (Lyrics
+793054928168103937 2016-10-31 11:40:03 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/yPq9LM_2Jcg?a Irresistible - Fall Out Boy (Lyrics)
+793054861516386305 2016-10-31 11:39:47 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/JQ0lE7e3yfk?a Fall Out Boy - My Songs Know What You Did In The Dark - Light 'Em Up
+761169217529978880 2016-08-04 11:57:37 UTC <Tomgtapd> With this beginning, I'm announcing a break. I'm taking some time off from this 'game'.  I apologize for...http://youtu.be/DcvZFKA2tB8?a
+751397726449991680 2016-07-08 12:49:12 UTC <Tomgtapd> @YouTubeGaming #PrayforDallas
+751383091307044864 2016-07-08 11:51:03 UTC <Tomgtapd> @SteveTheGamer55 #PrayforDallas
+751383023111766016 2016-07-08 11:50:47 UTC <Tomgtapd> #PrayforDallas
+738065135512760321 2016-06-01 17:50:15 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! (SEASON FINALE): http://youtu.be/j5BEDV7MvBU?a ber @YouTube
+730069063058198528 2016-05-10 16:16:43 UTC <Tomgtapd> I no bot dubz.: http://youtu.be/SoKCiznnZOk?a ber @YouTube
+726425659938078720 2016-04-30 14:59:08 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #6: http://youtu.be/Dt-hAo2xilw?a ber @YouTube
+726404007137136640 2016-04-30 13:33:05 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-178580?v=manual
+723250301688528898 2016-04-21 20:41:23 UTC <Tomgtapd> Real palms v2.0 for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/mods/6329-real-palms-v20.html
+722185529807216640 2016-04-18 22:10:22 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #5: http://youtu.be/9Oot1cx1Jy0?a ber @YouTube
+721364779823198208 2016-04-16 15:49:00 UTC <Tomgtapd> Chevrolet Tahoe LTZ 2013 Unmarked Police for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/cars/29778-chevorlet-tahoe-ltz-2013-unmarked-police.html
+720333456463368192 2016-04-13 19:30:53 UTC <Tomgtapd> Samp Gui + Mouse http://www.gamemodding.net/en/gta-san-andreas/gta-sa-mods/45468-samp-gui-mouse.html?from=dp_tw_share_en
+720333394878406657 2016-04-13 19:30:39 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-141034?v=manual
+718565028878614528 2016-04-08 22:23:47 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #4: http://youtu.be/r2oXZNIjLAc?a ber @YouTube
+717390819666305024 2016-04-05 16:37:54 UTC <Tomgtapd> .
+713475381790130176 2016-03-25 21:19:21 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #3: http://youtu.be/imX61lKHjzQ?a ber @YouTube
+710181369419309056 2016-03-16 19:10:07 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-14949?v=manual
+708644931817099264 2016-03-12 13:24:52 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #2: http://youtu.be/A-GD4GVpx00?a ber @YouTube
+703293983674470401 2016-02-26 19:02:06 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #1: http://youtu.be/tVS__wQeQTk?a ber @YouTube
+701500746437681153 2016-02-21 20:16:25 UTC <Tomgtapd> LSPD Gross DM REPORT IG 6: http://youtu.be/4jWND12ASJc?a ber @YouTube
+698909824399106048 2016-02-14 16:41:01 UTC <Tomgtapd> [LS:RP] LSPD METRO, GOODBYE: http://youtu.be/Lq5UfEaglCg?a ber @YouTube
+696143663798341633 2016-02-06 01:29:17 UTC <Tomgtapd> [LSRP] LSPD C Platoon & Co Part IV: http://youtu.be/117P1JGJVOw?a ber @YouTube
+695051775661969408 2016-02-03 01:10:31 UTC <Tomgtapd> LSRP C Platoon & Co Part III: http://youtu.be/Puo4iN9iggE?a ber @YouTube
+691005887977295873 2016-01-23 21:13:36 UTC <Tomgtapd> [LS-RP] SMB Surge Drill [JAN 2k16]: http://youtu.be/psTp8ibDuoI?a ber @YouTube
+967735670985908224 2018-02-25 12:18:58 UTC <Tomgtapd> RAINBOW SIX Lights go Down: http://youtu.be/GVKK1Vbi8H0?a ber @YouTube
+967603656454561793 2018-02-24 03:34:23 UTC <Tomgtapd> RAINBOW SIX Lights go Down: http://youtu.be/HG3tYv8Hbks?a ber @YouTube
+948296158841135104 2018-01-02 20:53:17 UTC <Tomgtapd> For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,https://twitter.com/Tomgtapd/status/948250281665589249
+948296099504287744 2018-01-02 20:53:03 UTC <Tomgtapd> @Rainbow6Game For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948293381549187073 2018-01-02 20:42:15 UTC <Tomgtapd> @Ubisoft @XGamerPT_17 For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948293292491407361 2018-01-02 20:41:54 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi @NoelKra_ For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948292798226358272 2018-01-02 20:39:56 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91
+948292512984256513 2018-01-02 20:38:48 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem  https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c9.  Probably Swisscom Testing smth,
+948262235528482816 2018-01-02 18:38:29 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi On top of that people have posted solutions regarding the matter by entering a prefered DNS Server in their network configuration such as 8.8.8.8 and 8.8.4.4
+948253555059838976 2018-01-02 18:03:59 UTC <Tomgtapd> Same here.https://twitter.com/ItsEpi/status/948173560278867969
+948250281665589249 2018-01-02 17:50:59 UTC <Tomgtapd> @Rainbow6Game Stuck on Validating Playlists and Properties for 2 days now. Reinstalled Windows and tried all fixes currently known. Talked to my ISP and they are saying it's a server-related Issue please look into this.
+924753343590948864 2017-10-29 21:42:32 UTC <Tomgtapd> @Rainbow6Game Had a terrible game thanks to some Ping abuser in my Ping, violently insulting everyone and teamkilling, can I report him?
+924610878150004737 2017-10-29 12:16:26 UTC <Tomgtapd> [Rainbow6SIEGE] Trigger: http://youtu.be/pOYzoDDBxmc?a ber @YouTube
+924588488514785280 2017-10-29 10:47:28 UTC <Tomgtapd> R6S Trigger v2: http://youtu.be/SteCfAHZTa4?a ber @YouTube
+924471634932756480 2017-10-28 03:03:08 UTC <Tomgtapd> R6S: Trigger: http://youtu.be/qUemrAmTZQo?a ber @YouTube
+924252617802440704 2017-10-28 12:32:50 UTC <Tomgtapd> @UbisoftSupport Do you plan on doing somehting about the R6S Temporal Filtering issue
+924252519009869824 2017-10-28 12:32:26 UTC <Tomgtapd> @Rainbow6Game Are you planning on releasing a Blog Post about the temporal filtering issue that can potentially render the game unplayable?
+924252105388494848 2017-10-28 12:30:48 UTC <Tomgtapd> @BlouPenguin Yo Pengu, do you disagree with the removal of temporal filtering? Can you please help them change it! I beg you
+924024055946235904 2017-10-27 21:24:37 UTC <Tomgtapd> @Rainbow6Game I can't play the game since the last update because of the rendering method that was removed. Please help me RainbowSixGame
+923845814816071680 2017-10-27 09:36:21 UTC <Tomgtapd> @Rainbow6Game Since I can't play the game stable because of the removal of Temporal Filtering, would you be so kind to work on a solution?
+923841635561156608 2017-10-27 09:19:44 UTC <Tomgtapd> @BlouPenguin You don't support the removal of temoporal Filtering right?https://www.change.org/p/rainbow6game-r6s-revert-the-temporal-filtering-change-that-came-with-operation-blood-orchid
+923839699088760832 2017-10-27 09:12:03 UTC <Tomgtapd> @Rainbow6Game I can't play the game since Temporal Filtering was removed (now 50 fps),  Subreddit thinks the same. Can you please fix this?
+923832079669977090 2017-10-27 08:41:46 UTC <Tomgtapd> Don't support the removal of temporal Filtering hence performance loss? SIGN This Petition to force a Revertion!http://chn.ge/2yVfWN8
+923824092293234688 2017-10-27 08:10:02 UTC <Tomgtapd> @UbiJustin Any updates?https://twitter.com/UbiJustin/status/902675554666733569
+923322293417279489 2017-10-25 22:56:03 UTC <Tomgtapd> @Rainbow6Game Dear Rainbow Six Siege Game Developers, the community has highly requested that the Temporal Filtering is brought back. Please
+923246951021367297 2017-10-25 17:56:40 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/qo6ygYSxwEY?a Gioni - Trigger
+915813742813876226 2017-10-04 05:39:45 UTC <Tomgtapd> Ich habe ein Video zu einer @YouTube-Playlist hinzugefgt: http://youtu.be/dmXgDVEhC1U?a Grandtheft & Delaney Jane - Easy Go
+909362969305284608 2017-09-17 10:26:41 UTC <Tomgtapd> Siege Comp 1 New pc: http://youtu.be/GcTM-wabjn8?a ber @YouTube
+899296840352444418 2017-08-20 15:47:29 UTC <Tomgtapd> Tom Clancy's Rainbow Six Siege 08 20 2017 16 31 28 13 DVR: http://youtu.be/8ZMRmYryqfo?a ber @YouTube
+898678000702672896 2017-08-18 22:48:26 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/EALgD9ZjFyo?a NOW - Heart Of Gold (Vlog No Copyright Music)
+898677973687062528 2017-08-18 22:48:20 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/VUZmwZ6aPVE?a Disclosure - Latch (Ehrling Remix) (Vlog No Copyright Music)
+890504500863283200 2017-07-27 09:29:52 UTC <Tomgtapd> @comcast @KingGeorgeTV @nvKing_ @IllianMax 1&1
+886041794370306048 2017-07-14 01:56:40 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/OW_g5muJvek?a [ASMR] Unboxing Over 100+ Extremely Rare Yu-Gi-Oh Cards
+885832671301185537 2017-07-14 12:05:41 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/qeM8NkLwhdU?a M - Nights With You (Cheat Codes Remix)
+885241167855669249 2017-07-12 20:55:16 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/CDG5vaJt5QI?a M - Final Song (Welshy Bootleg)
+885240906839990272 2017-07-12 20:54:13 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/zfw1vFbPf8s?a Lady Gaga - The Cure (JJChan Trap Remix)
+885240168076201984 2017-07-12 20:51:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/yCuOucUgB0k?a M - Final Song (OutaMatic Remix)
+880784186315034625 2017-06-30 13:44:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/_BaqecVhk9A?a Robin Schulz  OK (feat. James Blunt) (Bourne Again X Valdo Bootleg)
+880242447846166528 2017-06-28 01:52:08 UTC <Tomgtapd> [Rainbow Six Siege] COMP #4: http://youtu.be/Y-MlKZaT9GQ?a ber @YouTube
+880200916653285376 2017-06-28 23:07:06 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/i95Nlb7kiPo?a Rita Ora - Your Song (Official Lyric Video)
+879058874489339904 2017-06-25 19:29:02 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/dT2owtxkU8k?a Shawn Mendes - There's Nothing Holdin' Me Back
+879058831623507968 2017-06-25 19:28:52 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Dw8B1q1tKgs?a Little Mix - Power (Official Video) ft. Stormzy
+877916269357309952 2017-06-22 15:48:44 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/6mTqqloMDjI?a Hailee Steinfeld - Most Girls (Audio)
+877915656573796353 2017-06-22 15:46:18 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/AVG8UXHNGFA?a Train - Hey, Soul Sister (Psyrex Remix)
+877915619714375683 2017-06-22 15:46:09 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/4emTtmbUwtI?a B.o.B - Airplanes ft. Hayley Williams (AndyWho Remix)
+877910340951916544 2017-06-22 15:25:10 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/rGlEZpOVjGo?a Imagine Dragons - Whatever It Takes (Audio)
+876440434825973761 2017-06-18 14:04:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/mVx3z2nNF44?a ANGL - FireBurst (Non Copyrighted Dubstep) {FT Release}
+874951983249141761 2017-06-14 11:29:43 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/IoMndcvmV2g?a Prefekt - Numb ft. Johnning (Non Copyrighted Dubstep) [Bro-Step]
+874274176672124928 2017-06-12 14:36:21 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/I9LimwJ2GmQ?a Two Feet - Go F*ck Yourself [Bass Boosted]
+874273883578355712 2017-06-12 14:35:11 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/D_VRSFpUcp0?a Wiz Khalifa & Iggy Azalea  Go Hard or Go Home [Furious 7 Soundtrack]
+874273014283722752 2017-06-12 14:31:44 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/jVOimXPdIDQ?a 1. Flo Rida - Whistle (Audio)
+874272715716382720 2017-06-12 14:30:33 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/tmPm5iYOklg?a Fetty Wap - Trap Queen (Crankdat Remix)
+874272683097239553 2017-06-12 14:30:25 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/vZv9-TWdBJM?a Dr. Dre - The Next Episode (San Holo Remix)
+874272421544697860 2017-06-12 14:29:23 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/d7o8Zqh3JYQ?a Can't Stop Won't Stop - Mighty & High
+874269451180441601 2017-06-12 14:17:34 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xydf351l-gw?a The Score - Unstoppable (Audio)
+873938027915210752 2017-06-11 16:20:37 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/taCRBFkUqdM?a e-dubble - Let Me Oh (Freestyle Friday #9)
+873847097019310080 2017-06-11 10:19:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/AYKYvVkhIYo?a e-dubble - Be A King
+873845342764224514 2017-06-11 10:12:19 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/o95ZTp5fuF8?a Antiserum & Mayhem - Trippy
+873844740407644160 2017-06-11 10:09:56 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/mKzLoZFz8PE?a Marshmello - Keep it Mello ft. Omar LinX (Official Music Video)
+873541850040336384 2017-06-10 14:06:21 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/UvD7nmXysNI?a P-Holla - Do it For Love
+873540991638286336 2017-06-10 14:02:56 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/xcKPyEy5quE?a Krewella - Parachute
+873540322147663874 2017-06-10 14:00:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/85ftfVUTzM4?a Cash Cash - Overtime
+873540154635452416 2017-06-10 13:59:37 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/jecQcgbyetw?a The Score - Legend (Audio)
+873540095177109505 2017-06-10 13:59:22 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/b99r48grKGI?a The Score - Revolution (Audio)
+873539811084259328 2017-06-10 13:58:15 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/h_zd8VN6HRg?a Astrid S - Breathe (Lauv Remix)
+871787420425093120 2017-06-05 17:54:52 UTC <Tomgtapd> Siege comp3: http://youtu.be/w_qzY2oH83k?a ber @YouTube
+871379648151769090 2017-06-04 14:54:32 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Ssb94_9SAwE?a The Chainsmokers ft. Daya - Don't Let Me Down (W&W Remix)
+871379482736816129 2017-06-04 14:53:52 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/D-sVqD4Xtfo?a Massive Vibes - Burn The Stars
+871379283683549186 2017-06-04 14:53:05 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xydf351l-gw?a The Score - Unstoppable (Audio)
+871379241363025920 2017-06-04 14:52:55 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/fU8qg5nP2h0?a Martin Garrix & Troye Sivan - There For You (BigNSmall X Zak Remix)
+871379072693284868 2017-06-04 14:52:15 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/S_DSqeCIpPQ?a Zedd, Alessia Cara - Stay (Tritonal Remix)
+871379006985261058 2017-06-04 14:51:59 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/nEt1bKGlCpM?a Virtual Riot - Idols (EDM Mashup)
+871378937720565761 2017-06-04 14:51:42 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xkm8mGlfm9w?a 20syl - Ongoing Thing feat. Oddisee
+871378853830197248 2017-06-04 14:51:22 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/oApfRDRp4s8?a Kendrick Lamar - Sing That Shit (20syl Juicy Remix)
+871378708833107968 2017-06-04 14:50:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/uCvPNdPkaDk?a Martin Garrix & Dua Lipa - Scared To Be Lonely
+871378621025460224 2017-06-04 14:50:27 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/GpVz5_7fzVA?a Joel Adams Please Don't Go (Afterfab Remix)
+864914299080376320 2017-05-17 18:43:32 UTC <Tomgtapd> [Rainbow Six Siege] COMP #2: http://youtu.be/cXm5eUiwjaE?a ber @YouTube
+861161069968019456 2017-05-07 10:09:33 UTC <Tomgtapd> [R6S[ A Siege Funtage: http://youtu.be/FrXdXdU2ADA?a ber @YouTube
+858049873165377537 2017-04-28 20:06:46 UTC <Tomgtapd> roflhttps://twitter.com/DarkUmamA/status/858031572670394368
+853931986079166466 2017-04-17 11:23:45 UTC <Tomgtapd> It's been ages but I'm super hyped to come back to @DOJRolePlay @LCDoJRPClan @DaMomsMom @Bakey25 @Polecat324. Maybe you remember me!
+820443381662908416 2017-01-14 01:31:59 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/2u7fxDvumWw?a The distraction tactic! - Rainbow Six Siege
+817453873287733248 2017-01-06 19:32:45 UTC <Tomgtapd> ENJOY!?http://youtu.be/UcPUxnuE3l8?a
+808351473901961217 2016-12-12 16:43:04 UTC <Tomgtapd> -
+806923604139143168 2016-12-08 18:09:13 UTC <Tomgtapd> LS-RP: LSPDMetropolitan division SEQUENCE 1: http://youtu.be/JxqB6Xf9NSo?a ber @YouTube
+802632010804162560 2016-11-26 21:55:58 UTC <Tomgtapd> Overdose 1.6 New for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/mods/55218-overdose-16-new.html
+802631956949123072 2016-11-26 21:55:45 UTC <Tomgtapd> Overdose 1.6 New for GTA San Andreas http://www.gtaall.com/gta-san-andreas/mods/55218-overdose-16-new.html
+800666771787284480 2016-11-21 11:46:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/iUbPHHFWP-A?a Rainbow Six Siege Song | Rainbows In The Dark | #NerdOut!
+800666712962113536 2016-11-21 11:46:34 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/z9pIvKHSCP0?a BATTLEFIELD 1 vs INFINITE WARFARE | Dan Bull vs Idubbbz rap battle
+793060714516586496 2016-10-31 12:03:03 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Io0fBr1XBUA?a The Chainsmokers - Don't Let Me Down ft. Daya
+793060664218558464 2016-10-31 12:02:51 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Oy7ALgpBsG4?a I Know What You Did Last Summer - Shawn Mendes & Camila Cabello (Lyrics
+793054928168103937 2016-10-31 11:40:03 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/yPq9LM_2Jcg?a Irresistible - Fall Out Boy (Lyrics)
+793054861516386305 2016-10-31 11:39:47 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/JQ0lE7e3yfk?a Fall Out Boy - My Songs Know What You Did In The Dark - Light 'Em Up
+761169217529978880 2016-08-04 11:57:37 UTC <Tomgtapd> With this beginning, I'm announcing a break. I'm taking some time off from this 'game'.  I apologize for...http://youtu.be/DcvZFKA2tB8?a
+751397726449991680 2016-07-08 12:49:12 UTC <Tomgtapd> @YouTubeGaming #PrayforDallas
+751383091307044864 2016-07-08 11:51:03 UTC <Tomgtapd> @SteveTheGamer55 #PrayforDallas
+751383023111766016 2016-07-08 11:50:47 UTC <Tomgtapd> #PrayforDallas
+738065135512760321 2016-06-01 17:50:15 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! (SEASON FINALE): http://youtu.be/j5BEDV7MvBU?a ber @YouTube
+730069063058198528 2016-05-10 16:16:43 UTC <Tomgtapd> I no bot dubz.: http://youtu.be/SoKCiznnZOk?a ber @YouTube
+726425659938078720 2016-04-30 14:59:08 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #6: http://youtu.be/Dt-hAo2xilw?a ber @YouTube
+726404007137136640 2016-04-30 13:33:05 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-178580?v=manual
+723250301688528898 2016-04-21 20:41:23 UTC <Tomgtapd> Real palms v2.0 for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/mods/6329-real-palms-v20.html
+722185529807216640 2016-04-18 22:10:22 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #5: http://youtu.be/9Oot1cx1Jy0?a ber @YouTube
+721364779823198208 2016-04-16 15:49:00 UTC <Tomgtapd> Chevrolet Tahoe LTZ 2013 Unmarked Police for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/cars/29778-chevorlet-tahoe-ltz-2013-unmarked-police.html
+720333456463368192 2016-04-13 19:30:53 UTC <Tomgtapd> Samp Gui + Mouse http://www.gamemodding.net/en/gta-san-andreas/gta-sa-mods/45468-samp-gui-mouse.html?from=dp_tw_share_en
+720333394878406657 2016-04-13 19:30:39 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-141034?v=manual
+718565028878614528 2016-04-08 22:23:47 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #4: http://youtu.be/r2oXZNIjLAc?a ber @YouTube
+717390819666305024 2016-04-05 16:37:54 UTC <Tomgtapd> .
+713475381790130176 2016-03-25 21:19:21 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #3: http://youtu.be/imX61lKHjzQ?a ber @YouTube
+710181369419309056 2016-03-16 19:10:07 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-14949?v=manual
+708644931817099264 2016-03-12 13:24:52 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #2: http://youtu.be/A-GD4GVpx00?a ber @YouTube
+703293983674470401 2016-02-26 19:02:06 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #1: http://youtu.be/tVS__wQeQTk?a ber @YouTube
+701500746437681153 2016-02-21 20:16:25 UTC <Tomgtapd> LSPD Gross DM REPORT IG 6: http://youtu.be/4jWND12ASJc?a ber @YouTube
+698909824399106048 2016-02-14 16:41:01 UTC <Tomgtapd> [LS:RP] LSPD METRO, GOODBYE: http://youtu.be/Lq5UfEaglCg?a ber @YouTube
+696143663798341633 2016-02-06 01:29:17 UTC <Tomgtapd> [LSRP] LSPD C Platoon & Co Part IV: http://youtu.be/117P1JGJVOw?a ber @YouTube
+695051775661969408 2016-02-03 01:10:31 UTC <Tomgtapd> LSRP C Platoon & Co Part III: http://youtu.be/Puo4iN9iggE?a ber @YouTube
+691005887977295873 2016-01-23 21:13:36 UTC <Tomgtapd> [LS-RP] SMB Surge Drill [JAN 2k16]: http://youtu.be/psTp8ibDuoI?a ber @YouTube
+967735670985908224 2018-02-25 12:18:58 UTC <Tomgtapd> RAINBOW SIX Lights go Down: http://youtu.be/GVKK1Vbi8H0?a ber @YouTube
+967603656454561793 2018-02-24 03:34:23 UTC <Tomgtapd> RAINBOW SIX Lights go Down: http://youtu.be/HG3tYv8Hbks?a ber @YouTube
+948296158841135104 2018-01-02 20:53:17 UTC <Tomgtapd> For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,https://twitter.com/Tomgtapd/status/948250281665589249
+948296099504287744 2018-01-02 20:53:03 UTC <Tomgtapd> @Rainbow6Game For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948293381549187073 2018-01-02 20:42:15 UTC <Tomgtapd> @Ubisoft @XGamerPT_17 For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948293292491407361 2018-01-02 20:41:54 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi @NoelKra_ For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91 . Probably Swisscom Testing smth,
+948292798226358272 2018-01-02 20:39:56 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c91
+948292512984256513 2018-01-02 20:38:48 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi For all Swisscom Customers having this problem. Someone from the community found a fix which involves turning off the IPv6 Protocoll in your Network IP Configuration. This what you need to do to possibly fix this problem  https://gyazo.com/0bee59aff71dae998f4ddfcb165d1c9.  Probably Swisscom Testing smth,
+948262235528482816 2018-01-02 18:38:29 UTC <Tomgtapd> @UbisoftSupport @ArtyhStream @ItsEpi On top of that people have posted solutions regarding the matter by entering a prefered DNS Server in their network configuration such as 8.8.8.8 and 8.8.4.4
+948253555059838976 2018-01-02 18:03:59 UTC <Tomgtapd> Same here.https://twitter.com/ItsEpi/status/948173560278867969
+948250281665589249 2018-01-02 17:50:59 UTC <Tomgtapd> @Rainbow6Game Stuck on Validating Playlists and Properties for 2 days now. Reinstalled Windows and tried all fixes currently known. Talked to my ISP and they are saying it's a server-related Issue please look into this.
+924753343590948864 2017-10-29 21:42:32 UTC <Tomgtapd> @Rainbow6Game Had a terrible game thanks to some Ping abuser in my Ping, violently insulting everyone and teamkilling, can I report him?
+924610878150004737 2017-10-29 12:16:26 UTC <Tomgtapd> [Rainbow6SIEGE] Trigger: http://youtu.be/pOYzoDDBxmc?a ber @YouTube
+924588488514785280 2017-10-29 10:47:28 UTC <Tomgtapd> R6S Trigger v2: http://youtu.be/SteCfAHZTa4?a ber @YouTube
+924471634932756480 2017-10-28 03:03:08 UTC <Tomgtapd> R6S: Trigger: http://youtu.be/qUemrAmTZQo?a ber @YouTube
+924252617802440704 2017-10-28 12:32:50 UTC <Tomgtapd> @UbisoftSupport Do you plan on doing somehting about the R6S Temporal Filtering issue
+924252519009869824 2017-10-28 12:32:26 UTC <Tomgtapd> @Rainbow6Game Are you planning on releasing a Blog Post about the temporal filtering issue that can potentially render the game unplayable?
+924252105388494848 2017-10-28 12:30:48 UTC <Tomgtapd> @BlouPenguin Yo Pengu, do you disagree with the removal of temporal filtering? Can you please help them change it! I beg you
+924024055946235904 2017-10-27 21:24:37 UTC <Tomgtapd> @Rainbow6Game I can't play the game since the last update because of the rendering method that was removed. Please help me RainbowSixGame
+923845814816071680 2017-10-27 09:36:21 UTC <Tomgtapd> @Rainbow6Game Since I can't play the game stable because of the removal of Temporal Filtering, would you be so kind to work on a solution?
+923841635561156608 2017-10-27 09:19:44 UTC <Tomgtapd> @BlouPenguin You don't support the removal of temoporal Filtering right?https://www.change.org/p/rainbow6game-r6s-revert-the-temporal-filtering-change-that-came-with-operation-blood-orchid
+923839699088760832 2017-10-27 09:12:03 UTC <Tomgtapd> @Rainbow6Game I can't play the game since Temporal Filtering was removed (now 50 fps),  Subreddit thinks the same. Can you please fix this?
+923832079669977090 2017-10-27 08:41:46 UTC <Tomgtapd> Don't support the removal of temporal Filtering hence performance loss? SIGN This Petition to force a Revertion!http://chn.ge/2yVfWN8
+923824092293234688 2017-10-27 08:10:02 UTC <Tomgtapd> @UbiJustin Any updates?https://twitter.com/UbiJustin/status/902675554666733569
+923322293417279489 2017-10-25 22:56:03 UTC <Tomgtapd> @Rainbow6Game Dear Rainbow Six Siege Game Developers, the community has highly requested that the Temporal Filtering is brought back. Please
+923246951021367297 2017-10-25 17:56:40 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/qo6ygYSxwEY?a Gioni - Trigger
+915813742813876226 2017-10-04 05:39:45 UTC <Tomgtapd> Ich habe ein Video zu einer @YouTube-Playlist hinzugefgt: http://youtu.be/dmXgDVEhC1U?a Grandtheft & Delaney Jane - Easy Go
+909362969305284608 2017-09-17 10:26:41 UTC <Tomgtapd> Siege Comp 1 New pc: http://youtu.be/GcTM-wabjn8?a ber @YouTube
+899296840352444418 2017-08-20 15:47:29 UTC <Tomgtapd> Tom Clancy's Rainbow Six Siege 08 20 2017 16 31 28 13 DVR: http://youtu.be/8ZMRmYryqfo?a ber @YouTube
+898678000702672896 2017-08-18 22:48:26 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/EALgD9ZjFyo?a NOW - Heart Of Gold (Vlog No Copyright Music)
+898677973687062528 2017-08-18 22:48:20 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/VUZmwZ6aPVE?a Disclosure - Latch (Ehrling Remix) (Vlog No Copyright Music)
+890504500863283200 2017-07-27 09:29:52 UTC <Tomgtapd> @comcast @KingGeorgeTV @nvKing_ @IllianMax 1&1
+886041794370306048 2017-07-14 01:56:40 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/OW_g5muJvek?a [ASMR] Unboxing Over 100+ Extremely Rare Yu-Gi-Oh Cards
+885832671301185537 2017-07-14 12:05:41 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/qeM8NkLwhdU?a M - Nights With You (Cheat Codes Remix)
+885241167855669249 2017-07-12 20:55:16 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/CDG5vaJt5QI?a M - Final Song (Welshy Bootleg)
+885240906839990272 2017-07-12 20:54:13 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/zfw1vFbPf8s?a Lady Gaga - The Cure (JJChan Trap Remix)
+885240168076201984 2017-07-12 20:51:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/yCuOucUgB0k?a M - Final Song (OutaMatic Remix)
+880784186315034625 2017-06-30 13:44:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/_BaqecVhk9A?a Robin Schulz  OK (feat. James Blunt) (Bourne Again X Valdo Bootleg)
+880242447846166528 2017-06-28 01:52:08 UTC <Tomgtapd> [Rainbow Six Siege] COMP #4: http://youtu.be/Y-MlKZaT9GQ?a ber @YouTube
+880200916653285376 2017-06-28 23:07:06 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/i95Nlb7kiPo?a Rita Ora - Your Song (Official Lyric Video)
+879058874489339904 2017-06-25 19:29:02 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/dT2owtxkU8k?a Shawn Mendes - There's Nothing Holdin' Me Back
+879058831623507968 2017-06-25 19:28:52 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Dw8B1q1tKgs?a Little Mix - Power (Official Video) ft. Stormzy
+877916269357309952 2017-06-22 15:48:44 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/6mTqqloMDjI?a Hailee Steinfeld - Most Girls (Audio)
+877915656573796353 2017-06-22 15:46:18 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/AVG8UXHNGFA?a Train - Hey, Soul Sister (Psyrex Remix)
+877915619714375683 2017-06-22 15:46:09 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/4emTtmbUwtI?a B.o.B - Airplanes ft. Hayley Williams (AndyWho Remix)
+877910340951916544 2017-06-22 15:25:10 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/rGlEZpOVjGo?a Imagine Dragons - Whatever It Takes (Audio)
+876440434825973761 2017-06-18 14:04:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/mVx3z2nNF44?a ANGL - FireBurst (Non Copyrighted Dubstep) {FT Release}
+874951983249141761 2017-06-14 11:29:43 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/IoMndcvmV2g?a Prefekt - Numb ft. Johnning (Non Copyrighted Dubstep) [Bro-Step]
+874274176672124928 2017-06-12 14:36:21 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/I9LimwJ2GmQ?a Two Feet - Go F*ck Yourself [Bass Boosted]
+874273883578355712 2017-06-12 14:35:11 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/D_VRSFpUcp0?a Wiz Khalifa & Iggy Azalea  Go Hard or Go Home [Furious 7 Soundtrack]
+874273014283722752 2017-06-12 14:31:44 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/jVOimXPdIDQ?a 1. Flo Rida - Whistle (Audio)
+874272715716382720 2017-06-12 14:30:33 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/tmPm5iYOklg?a Fetty Wap - Trap Queen (Crankdat Remix)
+874272683097239553 2017-06-12 14:30:25 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/vZv9-TWdBJM?a Dr. Dre - The Next Episode (San Holo Remix)
+874272421544697860 2017-06-12 14:29:23 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/d7o8Zqh3JYQ?a Can't Stop Won't Stop - Mighty & High
+874269451180441601 2017-06-12 14:17:34 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xydf351l-gw?a The Score - Unstoppable (Audio)
+873938027915210752 2017-06-11 16:20:37 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/taCRBFkUqdM?a e-dubble - Let Me Oh (Freestyle Friday #9)
+873847097019310080 2017-06-11 10:19:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/AYKYvVkhIYo?a e-dubble - Be A King
+873845342764224514 2017-06-11 10:12:19 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/o95ZTp5fuF8?a Antiserum & Mayhem - Trippy
+873844740407644160 2017-06-11 10:09:56 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/mKzLoZFz8PE?a Marshmello - Keep it Mello ft. Omar LinX (Official Music Video)
+873541850040336384 2017-06-10 14:06:21 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/UvD7nmXysNI?a P-Holla - Do it For Love
+873540991638286336 2017-06-10 14:02:56 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/xcKPyEy5quE?a Krewella - Parachute
+873540322147663874 2017-06-10 14:00:17 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/85ftfVUTzM4?a Cash Cash - Overtime
+873540154635452416 2017-06-10 13:59:37 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/jecQcgbyetw?a The Score - Legend (Audio)
+873540095177109505 2017-06-10 13:59:22 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/b99r48grKGI?a The Score - Revolution (Audio)
+873539811084259328 2017-06-10 13:58:15 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/h_zd8VN6HRg?a Astrid S - Breathe (Lauv Remix)
+871787420425093120 2017-06-05 17:54:52 UTC <Tomgtapd> Siege comp3: http://youtu.be/w_qzY2oH83k?a ber @YouTube
+871379648151769090 2017-06-04 14:54:32 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Ssb94_9SAwE?a The Chainsmokers ft. Daya - Don't Let Me Down (W&W Remix)
+871379482736816129 2017-06-04 14:53:52 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/D-sVqD4Xtfo?a Massive Vibes - Burn The Stars
+871379283683549186 2017-06-04 14:53:05 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xydf351l-gw?a The Score - Unstoppable (Audio)
+871379241363025920 2017-06-04 14:52:55 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/fU8qg5nP2h0?a Martin Garrix & Troye Sivan - There For You (BigNSmall X Zak Remix)
+871379072693284868 2017-06-04 14:52:15 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/S_DSqeCIpPQ?a Zedd, Alessia Cara - Stay (Tritonal Remix)
+871379006985261058 2017-06-04 14:51:59 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/nEt1bKGlCpM?a Virtual Riot - Idols (EDM Mashup)
+871378937720565761 2017-06-04 14:51:42 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Xkm8mGlfm9w?a 20syl - Ongoing Thing feat. Oddisee
+871378853830197248 2017-06-04 14:51:22 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/oApfRDRp4s8?a Kendrick Lamar - Sing That Shit (20syl Juicy Remix)
+871378708833107968 2017-06-04 14:50:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/uCvPNdPkaDk?a Martin Garrix & Dua Lipa - Scared To Be Lonely
+871378621025460224 2017-06-04 14:50:27 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/GpVz5_7fzVA?a Joel Adams Please Don't Go (Afterfab Remix)
+864914299080376320 2017-05-17 18:43:32 UTC <Tomgtapd> [Rainbow Six Siege] COMP #2: http://youtu.be/cXm5eUiwjaE?a ber @YouTube
+861161069968019456 2017-05-07 10:09:33 UTC <Tomgtapd> [R6S[ A Siege Funtage: http://youtu.be/FrXdXdU2ADA?a ber @YouTube
+858049873165377537 2017-04-28 20:06:46 UTC <Tomgtapd> roflhttps://twitter.com/DarkUmamA/status/858031572670394368
+853931986079166466 2017-04-17 11:23:45 UTC <Tomgtapd> It's been ages but I'm super hyped to come back to @DOJRolePlay @LCDoJRPClan @DaMomsMom @Bakey25 @Polecat324. Maybe you remember me!
+820443381662908416 2017-01-14 01:31:59 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/2u7fxDvumWw?a The distraction tactic! - Rainbow Six Siege
+817453873287733248 2017-01-06 19:32:45 UTC <Tomgtapd> ENJOY!?http://youtu.be/UcPUxnuE3l8?a
+808351473901961217 2016-12-12 16:43:04 UTC <Tomgtapd> -
+806923604139143168 2016-12-08 18:09:13 UTC <Tomgtapd> LS-RP: LSPDMetropolitan division SEQUENCE 1: http://youtu.be/JxqB6Xf9NSo?a ber @YouTube
+802632010804162560 2016-11-26 21:55:58 UTC <Tomgtapd> Overdose 1.6 New for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/mods/55218-overdose-16-new.html
+802631956949123072 2016-11-26 21:55:45 UTC <Tomgtapd> Overdose 1.6 New for GTA San Andreas http://www.gtaall.com/gta-san-andreas/mods/55218-overdose-16-new.html
+800666771787284480 2016-11-21 11:46:48 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/iUbPHHFWP-A?a Rainbow Six Siege Song | Rainbows In The Dark | #NerdOut!
+800666712962113536 2016-11-21 11:46:34 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/z9pIvKHSCP0?a BATTLEFIELD 1 vs INFINITE WARFARE | Dan Bull vs Idubbbz rap battle
+793060714516586496 2016-10-31 12:03:03 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Io0fBr1XBUA?a The Chainsmokers - Don't Let Me Down ft. Daya
+793060664218558464 2016-10-31 12:02:51 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/Oy7ALgpBsG4?a I Know What You Did Last Summer - Shawn Mendes & Camila Cabello (Lyrics
+793054928168103937 2016-10-31 11:40:03 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/yPq9LM_2Jcg?a Irresistible - Fall Out Boy (Lyrics)
+793054861516386305 2016-10-31 11:39:47 UTC <Tomgtapd> I added a video to a @YouTube playlist http://youtu.be/JQ0lE7e3yfk?a Fall Out Boy - My Songs Know What You Did In The Dark - Light 'Em Up
+761169217529978880 2016-08-04 11:57:37 UTC <Tomgtapd> With this beginning, I'm announcing a break. I'm taking some time off from this 'game'.  I apologize for...http://youtu.be/DcvZFKA2tB8?a
+751397726449991680 2016-07-08 12:49:12 UTC <Tomgtapd> @YouTubeGaming #PrayforDallas
+751383091307044864 2016-07-08 11:51:03 UTC <Tomgtapd> @SteveTheGamer55 #PrayforDallas
+751383023111766016 2016-07-08 11:50:47 UTC <Tomgtapd> #PrayforDallas
+738065135512760321 2016-06-01 17:50:15 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! (SEASON FINALE): http://youtu.be/j5BEDV7MvBU?a ber @YouTube
+730069063058198528 2016-05-10 16:16:43 UTC <Tomgtapd> I no bot dubz.: http://youtu.be/SoKCiznnZOk?a ber @YouTube
+726425659938078720 2016-04-30 14:59:08 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #6: http://youtu.be/Dt-hAo2xilw?a ber @YouTube
+726404007137136640 2016-04-30 13:33:05 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-178580?v=manual
+723250301688528898 2016-04-21 20:41:23 UTC <Tomgtapd> Real palms v2.0 for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/mods/6329-real-palms-v20.html
+722185529807216640 2016-04-18 22:10:22 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #5: http://youtu.be/9Oot1cx1Jy0?a ber @YouTube
+721364779823198208 2016-04-16 15:49:00 UTC <Tomgtapd> Chevrolet Tahoe LTZ 2013 Unmarked Police for GTA San Andreashttp://www.gtaall.com/gta-san-andreas/cars/29778-chevorlet-tahoe-ltz-2013-unmarked-police.html
+720333456463368192 2016-04-13 19:30:53 UTC <Tomgtapd> Samp Gui + Mouse http://www.gamemodding.net/en/gta-san-andreas/gta-sa-mods/45468-samp-gui-mouse.html?from=dp_tw_share_en
+720333394878406657 2016-04-13 19:30:39 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-141034?v=manual
+718565028878614528 2016-04-08 22:23:47 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #4: http://youtu.be/r2oXZNIjLAc?a ber @YouTube
+717390819666305024 2016-04-05 16:37:54 UTC <Tomgtapd> .
+713475381790130176 2016-03-25 21:19:21 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #3: http://youtu.be/imX61lKHjzQ?a ber @YouTube
+710181369419309056 2016-03-16 19:10:07 UTC <Tomgtapd> http://www.gamemodding.net/en/getmod-14949?v=manual
+708644931817099264 2016-03-12 13:24:52 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #2: http://youtu.be/A-GD4GVpx00?a ber @YouTube
+703293983674470401 2016-02-26 19:02:06 UTC <Tomgtapd> LS-RP: LSPDOfficer needs Help! View- #1: http://youtu.be/tVS__wQeQTk?a ber @YouTube
+701500746437681153 2016-02-21 20:16:25 UTC <Tomgtapd> LSPD Gross DM REPORT IG 6: http://youtu.be/4jWND12ASJc?a ber @YouTube
+698909824399106048 2016-02-14 16:41:01 UTC <Tomgtapd> [LS:RP] LSPD METRO, GOODBYE: http://youtu.be/Lq5UfEaglCg?a ber @YouTube
+696143663798341633 2016-02-06 01:29:17 UTC <Tomgtapd> [LSRP] LSPD C Platoon & Co Part IV: http://youtu.be/117P1JGJVOw?a ber @YouTube
+695051775661969408 2016-02-03 01:10:31 UTC <Tomgtapd> LSRP C Platoon & Co Part III: http://youtu.be/Puo4iN9iggE?a ber @YouTube
+691005887977295873 2016-01-23 21:13:36 UTC <Tomgtapd> [LS-RP] SMB Surge Drill [JAN 2k16]: http://youtu.be/psTp8ibDuoI?a ber @YouTube

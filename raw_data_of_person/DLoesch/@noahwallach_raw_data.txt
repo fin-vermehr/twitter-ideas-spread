@@ -1,0 +1,2 @@
+920301591705432064 2017-10-17 14:52:52 UTC <noahwallach> @alyankovic the enlist button does not work on your website when trying to join your fan list.  chrome, FF, and iphone
+919230341801377792 2017-10-14 15:56:06 UTC <noahwallach> @alyankovic Hi your email entry webform from the http://weirdal.com website does not display a 'submit' button.
