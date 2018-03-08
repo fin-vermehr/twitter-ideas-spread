@@ -32,4 +32,4 @@ def get_followers(username):
             print "@" + user.screen_name
             text_file.write("@" + user.screen_name + "\n")
 
-get_followers('@realDonaldTrump')
+get_followers('@GunOwners')
