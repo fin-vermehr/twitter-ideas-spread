@@ -48,7 +48,7 @@ def tfidf(virtual):
         all_documents.append(' '.join(virtual[i]))
     sklearn_tfidf = TfidfVectorizer(norm='l2', stop_words= stopwords,min_df=0, use_idf=True, smooth_idf=False, sublinear_tf=True, tokenizer=tokenize)
     return (sklearn_tfidf.fit_transform(all_documents),hashtag_in_order)
-
+    
     """
     Row 1 --> hashtag 1
     Row 2 --> hashtag 2
@@ -59,8 +59,14 @@ def tfidf(virtual):
 
     
     """
-
-
+    if __name__ == '__main__':
+        
+        dict1= virtual_documents(tweets, hashtags)
+        matrix, hashtag=  tfidf(dict1)
+        return (cosine_similarity(matrix, matrix), hashtag)
+            
+            
+            
     
 
 
