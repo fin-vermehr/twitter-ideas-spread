@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from pprint import pprint
 
-
 def shared_tweeters(parent):
     hashtag_dict = dict()
     data_length = 0
@@ -12,12 +11,13 @@ def shared_tweeters(parent):
             pass
         else:
             data_length += 1
-            user = filename.split('_')[0]
+            user = filename.split('_processed')[0]
             df = pd.read_csv('tweets_of_person/' + parent + '/' + filename)
             hashtags = df['Hashtags']
 
             for hashtag in hashtags:
                 if type(hashtag) == str and hashtag is not None and hashtag.strip() != '':
+                    hashtag = hashtag.lower()
                     if '[' in hashtag:
                         hashtag = hashtag.replace('[', '').replace(']', '').replace("'", "").split(',')
                         for i in hashtag:
@@ -25,18 +25,27 @@ def shared_tweeters(parent):
                             if i .strip() == '':
                                 pass
                             elif i not in hashtag_dict:
-                                hashtag_dict[i] = [user]
+                                hashtag_dict[i] = set([user])
                             else:
-                                hashtag_dict[i].append(user)
+                                hashtag_dict[i].add(user)
                     else:
                         hashtag = hashtag.strip()
                         if hashtag not in hashtag_dict:
-                            hashtag_dict[hashtag] = [user]
+                            hashtag_dict[hashtag] = set([user])
                         else:
-                            hashtag_dict[hashtag].append(user)
-    print hashtag_dict
-    for key in hashtag_dict:
-        if len(hashtag_dict[key]) > data_length * 0.15:
-            print key
+                            hashtag_dict[hashtag].add(user)
+    return hashtag_dict
 
-shared_tweeters('Emma4Change')
+def assign_number(hashtag_dict):
+    users = set([])
+    for key in hashtag_dict:
+        user_list = hashtag_dict[key]
+        for user in user_list:
+            users.add(user)
+    for key in hashtag_dict:
+        print float(len(hashtag_dict[key])) / float(len(users)) ** 0.5
+
+
+hashtag_dict = shared_tweeters('test_folder')
+
+assign_number(hashtag_dict)
