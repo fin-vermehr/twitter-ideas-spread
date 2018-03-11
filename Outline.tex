@@ -3,14 +3,36 @@
 \usepackage{tabu}
 \usepackage{pgf}
 \usepackage{tikz}
-\usetikzlibrary{arrows,automata}
+\usepackage{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\author{Q-boy, The Mathematician and A Beautiful Girl}
+\title{Project Outline}
 \begin{document}
-\textbf{Mechanism}: There are five compartments in the model. The compartments are normal susceptible population, enthusiastic susceptible population, exposed population, infected population and skeptic population. The normal susceptible population represents the number of twitter accounts of people who have not seen the particular story on twitter and are neutral about the topic related to it. On the contrary, the enthusiastic susceptible population is the number of twitter accounts of people who have not seen the story on twitter but care deeply about the topic related to it. The exposed population is the number of twitter accounts of people have been exposed to the story and have not reacted to it yet. The infected population is the number of twitter accounts of people that have reacted to the story on twitter. The skeptic population represents the number of twitter accounts of people who have been exposed to the story but will not react to it on twitter. 
-\\The presence of the infected population acts as recruitment of the susceptible populations to itself. If there is contact between infected and susceptible, with some probability people from the susceptible population will react to the story and move to the infected population. The rest of the contacted people will move to the exposed population. Note that this applies to both susceptible populations. Similarly, the presence of the skeptic population acts as recruitment. If there is contact between skeptic and susceptible, with probability some people from the susceptible population will move to the skeptic population. The rest of the contacted people will move to the exposed population. The model assumes that the presence of the skeptic population has no effect on the enthusiastic susceptible population. From the exposed population, people can move to the infected population with the help of further contact with the infected population or on their own. The model assumes that the enthusiastic population is much more likely to react to the story than the normal population. 
+
+\maketitle
+\usetikzlibrary{arrows,automata}
+\section{Introduction}
+Explain that we will focus on Twitter data and why.
+
+\section{The Model}
+We wish to use a compartment model to describe the dynamics in the spread of information on a social media. We would like to modify the SEIZ model developed in (paper ???) by introducing a second susceptibles population to account for the fact that there is a subpopulation that is more likely to get 'infected' (and tweet), due to the fact that it has been infected by similar topics in the past. What we would therefore like to understand is what influence does this second population have on the other populations and the overall outbreak.
+\subsection{Modified SEIZ}
+There are five compartments in the model. The compartments are the \textit{normal susceptibles} ($S_1$), the \textit{enthusiastic susceptibles} ($S_2$), the \textit{exposed} ($E$), the \textit{infectives} ($I$) and the \textit{skeptics} ($Z$). The normal susceptible population represents the part of the population that is susceptible but has not tweeted about similar topics in the past. The enthusiastic susceptibles are those who are susceptible but but have tweeted about similar topics in the past. The exposed population is the number of twitter accounts that have seen the story but have not yet reacted to it. The infected population is the number of twitter accounts of people that have reacted to the 'story' on twitter. The skeptic population represents the number of twitter accounts of people who have been exposed to the story but will not react to it on twitter. 
 \begin{center}
     
 
-\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.8cm,
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.5cm,
                     semithick]
   \node[state] (S1)                    {$S_1$};
   \node[state]              (I)[above right of=S1] {$I$};
@@ -28,6 +50,24 @@
   \path (E) edge                  node{$\epsilon$} (I);
 \end{tikzpicture}
 \end{center}
+\subsubsection{Equation and parameters}
+
+\begin{equation} 
+\begin{split}
+\frac{dS_1}{dt} &= -{\beta}_1 S_1\frac{I}{N} -\gamma S_1\frac{Z}{N}\\
+\frac{dS_2}{dt} &= -{\beta}_2 S_2\frac{I}{N}\\
+\frac{dI}{dt} &= {\beta}_1 (1-p)S_1\frac{I}{N} + {\beta}_2 (1-m)S_2\frac{I}{N} + \epsilon E + \mu E\frac{I}{N}\\
+\frac{dE}{dt} &= {\beta}_1 pS_1\frac{I}{N} + {\beta}_2 mS_2\frac{I}{N} + \gamma       lS_1\frac{Z}{N} - \mu E\frac{I}{N} - \epsilon E\\
+\frac{dZ}{dt} &=  \gamma (1-l)S_1\frac{Z}{N}
+\end{split}
+\end{equation}
+with,
+\begin{align*}
+ N& = S_1 + S_2 + E + Z + I & {\beta}_1 &< {\beta}_2  & 0\leq m<p\leq 1\\
+0&\leq l \leq 1  & \frac{dN}{dt}&=0
+\end{align*}
+
+
 \begin{center}
 
 \begin{tabu} to 0.8\textwidth { | X[l] | X[r] |}
@@ -70,17 +110,9 @@
 
 \end{tabu}
 \end{center}
-\textbf{Constraints}: 
-$${\beta}_1 < {\beta}_2$$  
-$$0\leq m<p\leq 1$$  
-$$0\leq l \leq 1$$ 
-$$N = S_1 + S_2 + E + Z + I$$
-$$\frac{dN}{dt}=0$$
-\\
-\textbf{Equations}: 
-$$ \frac{dS_1}{dt} = -{\beta}_1 S_1\frac{I}{N} -\gamma S_1\frac{Z}{N}$$
-$$ \frac{dS_2}{dt} = -{\beta}_2 S_2\frac{I}{N}$$
-$$\frac{dI}{dt} = {\beta}_1 (1-p)S_1\frac{I}{N} + {\beta}_2 (1-m)S_2\frac{I}{N} + \epsilon E + \mu E\frac{I}{N}$$
-$$\frac{dE}{dt} = {\beta}_1 pS_1\frac{I}{N} + {\beta}_2 mS_2\frac{I}{N} + \gamma       lS_1\frac{Z}{N} - \mu E\frac{I}{N} - \epsilon E$$
-$$\frac{dZ}{dt} =  \gamma (1-l)S_1\frac{Z}{N}$$
+
+
+
+
+
 \end{document}
