@@ -1,0 +1,118 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{tabu}
+\usepackage{pgf}
+\usepackage{tikz}
+\usepackage{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\author{Q-boy, The Mathematician and A Beautiful Girl}
+\title{Project Outline}
+\begin{document}
+
+\maketitle
+\usetikzlibrary{arrows,automata}
+\section{Introduction}
+Explain that we will focus on Twitter data and why.
+
+\section{The Model}
+We wish to use a compartment model to describe the dynamics in the spread of information on a social media. We would like to modify the SEIZ model developed in (paper ???) by introducing a second susceptibles population to account for the fact that there is a subpopulation that is more likely to get 'infected' (and tweet), due to the fact that it has been infected by similar topics in the past. What we would therefore like to understand is what influence does this second population have on the other populations and the overall outbreak.
+\subsection{Modified SEIZ}
+There are five compartments in the model. The compartments are the \textit{normal susceptibles} ($S_1$), the \textit{enthusiastic susceptibles} ($S_2$), the \textit{exposed} ($E$), the \textit{infectives} ($I$) and the \textit{skeptics} ($Z$). The normal susceptible population represents the part of the population that is susceptible but has not tweeted about similar topics in the past. The enthusiastic susceptibles are those who are susceptible but but have tweeted about similar topics in the past. The exposed population is the number of twitter accounts that have seen the story but have not yet reacted to it. The infected population is the number of twitter accounts of people that have reacted to the 'story' on twitter. The skeptic population represents the number of twitter accounts of people who have been exposed to the story but will not react to it on twitter. 
+\begin{center}
+    
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.5cm,
+                    semithick]
+  \node[state] (S1)                    {$S_1$};
+  \node[state]              (I)[above right of=S1] {$I$};
+  \node[state]              (Z)[below right of=S1] {$Z$};
+  \node[state]              (E)[right of=S1] {$E$};
+  \node[state]              (S2)[right of=I] {$S_2$};
+
+  \path (S1) edge   [bend left]                 node{${\beta}_1(1-p)$} (I);
+  \path (S1) edge   [bend left]                 node{${\beta}_1 p$} (E);
+  \path (S1) edge   [bend right]                 node{${\gamma}l$} (E);
+  \path (S1) edge   [bend right]                 node{${\gamma}(1-l)$} (Z);
+  \path (S2) edge   [bend right]                node{${\beta}_2(1-m)$} (I);
+  \path (S2) edge                   node{${\beta}_2 m$} (E);
+  \path (E) edge    [bend right=40]               node{$\mu$} (I);
+  \path (E) edge                  node{$\epsilon$} (I);
+\end{tikzpicture}
+\end{center}
+\subsubsection{Equation and parameters}
+
+\begin{equation} 
+\begin{split}
+\frac{dS_1}{dt} &= -{\beta}_1 S_1\frac{I}{N} -\gamma S_1\frac{Z}{N}\\
+\frac{dS_2}{dt} &= -{\beta}_2 S_2\frac{I}{N}\\
+\frac{dI}{dt} &= {\beta}_1 (1-p)S_1\frac{I}{N} + {\beta}_2 (1-m)S_2\frac{I}{N} + \epsilon E + \mu E\frac{I}{N}\\
+\frac{dE}{dt} &= {\beta}_1 pS_1\frac{I}{N} + {\beta}_2 mS_2\frac{I}{N} + \gamma       lS_1\frac{Z}{N} - \mu E\frac{I}{N} - \epsilon E\\
+\frac{dZ}{dt} &=  \gamma (1-l)S_1\frac{Z}{N}
+\end{split}
+\end{equation}
+with,
+\begin{align*}
+ N& = S_1 + S_2 + E + Z + I & {\beta}_1 &< {\beta}_2  & 0\leq m<p\leq 1\\
+0&\leq l \leq 1  & \frac{dN}{dt}&=0
+\end{align*}
+
+
+\begin{center}
+
+\begin{tabu} to 0.8\textwidth { | X[l] | X[r] |}
+ \hline
+ Parameters and variables& Explanation \\
+ \hline
+ $S_1$  & Normal susceptible population  \\
+\hline
+ $S_2$ & Enthusiastic susceptible population\\
+ \hline
+ $E$ & Exposed population  \\
+ \hline
+ $I$ & Infected population  \\
+ \hline
+ $Z$ & Skeptic population \\
+  \hline
+ $\gamma$ & $S_1-Z$ contact rate \\
+ \hline
+ ${\beta}_1$ & $S_1-I$ contact rate \\
+ \hline
+ ${\beta}_2$ & $S_2-I$ contact rate \\
+ \hline
+ $\mu$ & $E-I$ contact rate \\
+ \hline
+ $p$ & $S_1-E$ conversion $\mathbf{P}$ given contact with infected \\
+ \hline
+ $1-p$ & $S_1-I$ conversion $\mathbf{P}$ given contact with infected \\
+ \hline
+ $l$ & $S_1-E$ conversion $\mathbf{P}$ given contact with skeptic \\
+ \hline
+ $1-l$ & $S_1-Z$ conversion $\mathbf{P}$ given contact with skeptic \\
+ \hline
+ $m$ & $S_2-E$ conversion $\mathbf{P}$ given contact with infected \\
+ \hline
+ $1-m$ & $S_2-I$ conversion $\mathbf{P}$ given contact with infected \\
+ \hline
+ $\epsilon$ & incubation rate \\
+ \hline
+ 
+
+\end{tabu}
+\end{center}
+
+
+
+
+
+\end{document}

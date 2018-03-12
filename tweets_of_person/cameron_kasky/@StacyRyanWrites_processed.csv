@@ -1,6 +1,9 @@
 ID,Date,Time,Time_Zone,Username,Tweet,Hashtags
+<<<<<<< HEAD
 971833851331817473,2018-03-08,19:43:40,UTC,StacyRyanWrites,"@marchsoloway I rewrote my first line after your read those examples at the @BooksIncEvents. Ill never forget you saying that some of the best first lines practically encapsulate the theme of the book.
 ",None
+=======
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 971772975924957186,2018-03-08,15:41:46,UTC,StacyRyanWrites,"File this in the already large holy shit folder that is 2018https://twitter.com/skrishna/status/971770288567390210
 ",None
 971771782007898113,2018-03-08,15:37:02,UTC,StacyRyanWrites,"@fivefifths This is what happens when you raise a child that thinks books are toys.  Congrats!
@@ -5639,7 +5642,11 @@ ID,Date,Time,Time_Zone,Username,Tweet,Hashtags
 ",None
 779449355887489024,2016-09-23,22:36:22,UTC,StacyRyanWrites,"@pattonoswalt This has gone too far! I just wrote something about the spice of the devil's testicles:http://bit.ly/2cMUv5d
 ",None
+<<<<<<< HEAD
 779354986027229184,2016-09-23,16:21:23,UTC,StacyRyanWrites,"I do not like pumpkin spice, Sam I Am.  I would not drink it in my Starbucks, I would not drink it you silly.duckhttp://bit.ly/2cMUv5d
+=======
+779354986027229184,2016-09-23,16:21:23,UTC,StacyRyanWrites,"I do not like pumpkin spice, Sam I Am.  I would not drink it in my Starbucks, I would not drink it you silly.duck http://bit.ly/2cMUv5d
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 ",None
 779309101532663808,2016-09-23,13:19:03,UTC,StacyRyanWrites,"I call a three course meal a trilogy #lovebooks #lovefood
 ","['lovebooks', 'lovefood']"

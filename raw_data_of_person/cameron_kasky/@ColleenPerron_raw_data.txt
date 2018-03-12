@@ -2679,7 +2679,11 @@
 934806859348819969 2017-11-26 15:31:37 UTC <ColleenPerron> Investigative Journalist Uncovers First Mention of Donald Trump in Panama Papers -http://eepurl.com/dbKsDj
 934805768766754817 2017-11-26 15:27:17 UTC <ColleenPerron> Dem lead in generic ballot polls worries GOPhttp://thehill.com/homenews/campaign/361571-dem-lead-in-generic-ballot-polls-worries-gop#.WhrdTDxLMrU.twitter
 934804775501160448 2017-11-26 15:23:20 UTC <ColleenPerron> The shrinking profile of Jared Kushnerhttp://wapo.st/2hTHOaT?tid=ss_tw&utm_term=.6aa6c2b2fb1b
+<<<<<<< HEAD
 934803249181310978 2017-11-26 15:17:17 UTC <ColleenPerron> Why Cyntoia Brown, who is spending life in prison for murder, is all over social mediahttp://a.msn.com/01/en-us/BBFyndD?ocid=st
+=======
+934803249181310978 2017-11-26 15:17:17 UTC <ColleenPerron> Why Cyntoia Brown, who is spending life in prison for murder, is all over social media http://a.msn.com/01/en-us/BBFyndD?ocid=st
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 934802997409865729 2017-11-26 15:16:17 UTC <ColleenPerron> Not Dead. Not Alive. Just Gone in Mexico.http://a.msn.com/01/en-us/BBFkNmg?ocid=st
 934798069060681729 2017-11-26 14:56:42 UTC <ColleenPerron> Watch: Morning Joe Scarborough Calls the GOP The Party of Pedophiles https://ourvoiceny.com/watch-morning-joe-scarborough-calls-the-gop-the-party-of-pedophiles/ via @SusanNow3
 934653500297900034 2017-11-25 05:22:14 UTC <ColleenPerron> Just In: Trump is Planning To Replace U.N. Ambassador Nikki Haley with Ivanka Trump https://ourvoiceny.com/just-trump-planning-replace-u-n-ambassador-nikki-haley-ivanka-trump/ via @SusanNow3
@@ -2820,7 +2824,11 @@
 933387831656923136 2017-11-22 17:32:55 UTC <ColleenPerron> Bush ethics lawyer: Conway should be fired for violating lawhttp://thehill.com/homenews/administration/361541-bush-ethics-lawyer-conway-should-be-fired-for-violating-law#.WhW0v_c8azx.twitter
 933386510866321408 2017-11-22 17:27:40 UTC <ColleenPerron> Moore's sex scandal metastasizes into GOP candidacies nationwidehttps://www.dailykos.com/story/2017/11/20/1717394/-Moore-s-sex-scandal-metastasizes-into-GOP-candidacies-nationwide
 933386331597631488 2017-11-22 17:26:57 UTC <ColleenPerron> Murkowski says she backs Obamacare mandate repeal http://politi.co/2jcUnhz via @politico
+<<<<<<< HEAD
 933386150235881472 2017-11-22 17:26:14 UTC <ColleenPerron> Pastor: Moore dated 'younger ladies' for their 'purity'http://a.msn.com/01/en-us/BBFsE0w?ocid=st
+=======
+933386150235881472 2017-11-22 17:26:14 UTC <ColleenPerron> Pastor: Moore dated 'younger ladies' for their 'purity' http://a.msn.com/01/en-us/BBFsE0w?ocid=st
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 933386003879927814 2017-11-22 17:25:39 UTC <ColleenPerron> Hes a Member of Congress. The Kremlin Likes Him So Much It Gave Him a Code Name.https://nyti.ms/2hSBh3N
 933385350650535936 2017-11-22 17:23:03 UTC <ColleenPerron> Tax Returns Identify Dark Money Organization As Source of GOP Supreme Court Attacks https://www.huffingtonpost.com/entry/tax-returns-identify-dark-money-organization-as-source_us_5a144f59e4b08b00ba673452?ncid=engmodushpmg00000004 via @HuffPostPol
 933384880074891264 2017-11-22 17:21:11 UTC <ColleenPerron> James Comey Just Took A Major Swipe At Trump After Endorsing Roy Moore http://verifiedpolitics.com/james-comey-just-took-major-swipe-trump-endorsing-roy-moore/ via @OccupyDemocrats
@@ -3018,8 +3026,13 @@
 929569097712525313 2017-11-11 04:38:38 UTC <ColleenPerron> @Shareblue Breitbart editor: Its OK if Roy Moore is a pedophile because he was single at the time https://shareblue.com/breitbart-editor-its-ok-if-roy-moore-is-a-pedophile-because-he-was-single-at-the-time/#.WgfQSwYyUVl.twitter via @shareblue
 929568427466821632 2017-11-11 04:35:58 UTC <ColleenPerron> Cassidy pulls endorsement of Moorehttp://thehill.com/homenews/campaign/359961-cassidy-pulls-endorsement-of-moore#.WgfPqN2xjfs.twitter
 929562215916568576 2017-11-11 04:11:17 UTC <ColleenPerron> Comey tweets about 'truth' and 'lies' after Trump lashes out at him http://a.msn.com/01/en-us/BBEQYfa?ocid=st
+<<<<<<< HEAD
 929562128960307200 2017-11-11 04:10:56 UTC <ColleenPerron> James Comey tweets about 'truth' and 'lies' after Trump lashes out at himhttp://a.msn.com/01/en-us/BBEQYfa?ocid=st
 929561906053910531 2017-11-11 04:10:03 UTC <ColleenPerron> McCain slams Trump over siding with Putin on Russia meddlinghttp://a.msn.com/01/en-us/BBER0Ss?ocid=st
+=======
+929562128960307200 2017-11-11 04:10:56 UTC <ColleenPerron> James Comey tweets about 'truth' and 'lies' after Trump lashes out at him http://a.msn.com/01/en-us/BBEQYfa?ocid=st
+929561906053910531 2017-11-11 04:10:03 UTC <ColleenPerron> McCain slams Trump over siding with Putin on Russia meddling http://a.msn.com/01/en-us/BBER0Ss?ocid=st
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 929511568609386496 2017-11-11 00:50:02 UTC <ColleenPerron> @Slate Senate panel votes to turn blogger who has never tried a case into a federal judge. http://www.slate.com/blogs/the_slatest/2017/11/11/senate_panel_approves_brett_j_talley_a_lawyer_without_trial_experience_for.html?wpsrc=sh_all_dt_tw_top via @slate
 929510093518905344 2017-11-11 00:44:10 UTC <ColleenPerron> Trump judge nominee, 36, who has never tried a case, wins approval of Senate panelhttp://www.latimes.com/politics/la-na-pol-trump-judge-20171110-story.html
 929507097670066177 2017-11-11 00:32:16 UTC <ColleenPerron> Meanwhile, a Russian Spy Who Worked with Putin is Now In Charge of US Embassy Security!https://www.dailykos.com/story/2017/11/11/1714819/-Meanwhile-a-Russian-Spy-Who-Worked-for-Putin-is-NOW-IN-CHARGE-of-US-EMBASSY-SECURITY
@@ -3501,7 +3514,11 @@
 923778505166295040 2017-10-26 05:08:53 UTC <ColleenPerron> DC Insider Says Girl Who Accused Trump of Rape Has Given On-Camera Interview to Major Network https://extremelifex.com/2017/08/02/dc-insider-says-girl-who-accused-trump-of-rape-has-given-on-camera-interview-to-major-network/
 923778083215220736 2017-10-26 05:07:12 UTC <ColleenPerron> Another congressional probe into the Trump-Russia scandal just blew up http://www.motherjones.com/politics/2017/10/the-senate-judiciary-committees-russia-probe-just-blew-up/ via @MotherJones
 923777296837644288 2017-10-26 05:04:05 UTC <ColleenPerron> Lawyer Exposes Single Most Important Fact in Muellers Investigation That No One is Talking About -http://www.bluedotdaily.com/lawyer-exposes-single-most-important-fact-in-muellers-investigation-that-no-one-is-talking-about/
+<<<<<<< HEAD
 923771563110830080 2017-10-26 04:41:18 UTC <ColleenPerron> NYPD Investigating After Death Threats Sent to CNN's Don Lemonhttp://a.msn.com/0A/en-us/AAu63Zv?ocid=st
+=======
+923771563110830080 2017-10-26 04:41:18 UTC <ColleenPerron> NYPD Investigating After Death Threats Sent to CNN's Don Lemon http://a.msn.com/0A/en-us/AAu63Zv?ocid=st
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 923771303605055488 2017-10-26 04:40:16 UTC <ColleenPerron> Man drives into California immigration rally http://a.msn.com/01/en-us/AAu64Bh?ocid=st
 923636608473055232 2017-10-26 19:45:02 UTC <ColleenPerron> 'Mom, Where Are You?' Girl With Cerebral Palsy Detained by Immigration Officials Cries for Help http://a.msn.com/01/en-us/AAu5N4K?ocid=st
 923636235897151488 2017-10-26 19:43:33 UTC <ColleenPerron> The Voter Fraud Commission Wants Your Data  But Experts Say They Cant Keep It Safe http://a.msn.com/01/en-us/AAtXfOu?ocid=st
@@ -4001,7 +4018,11 @@
 915342277630763008 2017-10-03 22:26:19 UTC <ColleenPerron> 6. Hope reignites for criminal justice reform https://www.axios.com/axios-am-2492173146.html?rebelltitem=9&utm_term=twsocialshare#rebelltitem9 #axiosam
 915339933572722689 2017-10-03 22:17:01 UTC <ColleenPerron> 1 big thing: 3 hard truths https://www.axios.com/axios-am-2492173146.html?rebelltitem=2&utm_term=twsocialshare#rebelltitem2 #axiosam
 915334042714750977 2017-10-03 21:53:36 UTC <ColleenPerron> BREAKING: Trump Votes For Death Penalty For Being Gay http://news.groopspeak.com/breaking-trump-votes-for-death-penalty-for-being-gay/ via @groopspeak
+<<<<<<< HEAD
 913607125800071168 2017-09-28 03:31:27 UTC <ColleenPerron> ICE arrests hundreds of immigrants in 'sanctuary cities' around the nation, Californiahttp://a.msn.com/01/en-us/AAsAM0H?ocid=st
+=======
+913607125800071168 2017-09-28 03:31:27 UTC <ColleenPerron> ICE arrests hundreds of immigrants in 'sanctuary cities' around the nation, California http://a.msn.com/01/en-us/AAsAM0H?ocid=st
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 913606416962691072 2017-09-28 03:28:38 UTC <ColleenPerron> As it recovers from earthquakes, Mexico City looks nervously at its (very) active volcano http://a.msn.com/01/en-us/AAsxT5d?ocid=st
 913605703176032257 2017-09-28 03:25:48 UTC <ColleenPerron> As hacks soar, tech honchos are the first to get fired, and then rehiredhttp://www.mcclatchydc.com/news/nation-world/national/national-security/article175740301.html
 913604607569412096 2017-09-28 03:21:27 UTC <ColleenPerron> More than 130,000 flee menacing Bali volcanohttps://apnews.com/8c220b9ee5a7407b90eb49f315e0cc2d
@@ -4809,7 +4830,11 @@
 902573062050136065 2017-08-29 16:46:01 UTC <ColleenPerron> Trump Shamefully Erases Data On Worker Deaths From OSHA Website -http://eepurl.com/c1k-Nn
 902557163230339072 2017-08-29 15:42:51 UTC <ColleenPerron> http://bipartisanreport.com/2017/08/29/ny-times-releases-tuesday-anti-trump-editorial-that-should-have-donald-fearing-for-his-job/
 902556533145210880 2017-08-29 15:40:20 UTC <ColleenPerron> Mueller Time! Special Counsel mulls Trump cover-up | News Behaving Badlyhttp://www.newsbehavingbadly.com/2017/08/29/mueller-special-counsel-trump-cover-up-goper-stop/
+<<<<<<< HEAD
 902402816223756288 2017-08-28 05:29:31 UTC <ColleenPerron> Trump reversed regulations to protect infrastructure against flooding just days before Hurricane Harveyhttp://a.msn.com/01/en-us/AAqRKYZ?ocid=st
+=======
+902402816223756288 2017-08-28 05:29:31 UTC <ColleenPerron> Trump reversed regulations to protect infrastructure against flooding just days before Hurricane Harvey http://a.msn.com/01/en-us/AAqRKYZ?ocid=st
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
 902379674117955584 2017-08-28 03:57:34 UTC <ColleenPerron> NC senator got a call from Trump about bill to protect investigator in Russian meddling casehttp://www.mcclatchydc.com/news/politics-government/article169072272.html
 902308943573131264 2017-08-28 23:16:30 UTC <ColleenPerron> http://bipartisanreport.com/2017/08/28/breaking-chemical-spill-in-texas-residents-told-to-turn-off-ac-cover-vents/
 902308012664119296 2017-08-28 23:12:48 UTC <ColleenPerron> GOP lawmaker proposes amendment to stop Mueller investigation after 180 dayshttp://thehill.com/homenews/house/348343-gop-lawmaker-proposes-amendment-that-would-stop-funding-for-special-counsel#.WaSjY2gVquM.twitter

@@ -1039,6 +1039,7 @@ ID,Date,Time,Time_Zone,Username,Tweet,Hashtags
 ","['endpoverty', 'uppdragglobal']"
 710211110062919684,2016-03-16,21:08:18,UTC,MattieTheBest,"What a beautiful goal! #FCBArsenal
 ",FCBArsenal
+<<<<<<< HEAD
 704738172673134592,2016-03-01,18:40:48,UTC,MattieTheBest,"@pewdiepie ska d stuva makaroner ox?
 ",None
 704168582956118017,2016-02-28,04:57:27,UTC,MattieTheBest,"Standing O for Leo. Totally deserves it!! #Oscars #OscarsSJ
@@ -1093,3 +1094,5 @@ ID,Date,Time,Time_Zone,Username,Tweet,Hashtags
 ","['TheoGottaGo', 'teenwolf']"
 690657151719751681,2016-01-22,22:07:51,UTC,MattieTheBest,"Watching #GameofThrones with a cuppa is all I need in life.
 ",GameofThrones
+=======
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999

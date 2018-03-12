@@ -11098,6 +11098,7 @@
 814096716744052736 2016-12-28 13:12:37 UTC <MrsEmmaJK> @PrisonPlanet @Madrid_is_RED No need to be confused x Until I saw the tweet I quoted, I wondered why didn't she just get some1 else to serve
 814091135203340288 2016-12-28 12:50:26 UTC <MrsEmmaJK> @Scientists4EU Hi, can you tell me anything about the amazing work being done on renewable energy creation in the south of France? #inspired
 814089727045410816 2016-12-28 12:44:50 UTC <MrsEmmaJK> @Madrid_is_RED @PrisonPlanet Ah, so she did and therefore didn't refuse service to himpic.twitter.com/hPc4R46rhO
+<<<<<<< HEAD
 814089454948413440 2016-12-28 12:43:45 UTC <MrsEmmaJK> @PrisonPlanet @Madrid_is_RED Why didn't the lady ask some1 else to serve the gentlemen? Not his fault.  I would have got a colleague 2 serve
 814088275669487617 2016-12-28 12:39:04 UTC <MrsEmmaJK> @Ri_Science @SaifulChemistry of course you can do it confident
 814088067724300290 2016-12-28 12:38:15 UTC <MrsEmmaJK> @SaifulChemistry I just want to thank you for such inspiring and amazing lectures!!! I want more, lol! pic.twitter.com/zYgG2bFqmb
@@ -15631,3 +15632,5 @@
 746243725681123328 2016-06-24 07:29:03 UTC <MrsEmmaJK> @David_Cameron I'm glad you did what you thought was best. Stay as PM FT. I love Europe but love the UK too, I voted out & we need you!
 746242376281186308 2016-06-24 07:23:41 UTC <MrsEmmaJK> @DrRanj I am glad Cameton did what he thought was best, as everyone has in what they have chosen. Plse keep +ve, Dr Ranj
 746241981567893504 2016-06-24 07:22:07 UTC <MrsEmmaJK> @DrRanj If this is what the people have voted though, we must respect that. Im glad so many voted & no matter the decision, I believe in us
+=======
+>>>>>>> 72e25740ec0826019b5e68f4a6ce03f86a05c999
