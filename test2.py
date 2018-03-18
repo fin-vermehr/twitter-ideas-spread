@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar  3 18:43:28 2018
+Created on Thu Mar  8 14:24:10 2018
 
 @author: quentinvilchez
 """
@@ -9,6 +9,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from os import listdir
 from os.path import isfile, join
+import ast
+import csv
 
 def virtual_documents(tweets, hashtags):
     '''
@@ -26,6 +28,7 @@ def virtual_documents(tweets, hashtags):
         if '#' in t:
             for h in hashtags:
                 if h in t: 
+                    
                     virtual[h].append(t)
                 else:
                     pass
@@ -63,7 +66,7 @@ def tfidf(virtual):
     """
     if __name__ == '__main__':
         
-         path = '/Users/quentinvilchez/Documents/GitHub/twitter-ideas-spread/tweets_of_person/Emma4Change/'
+        path = '/Users/quentinvilchez/Documents/GitHub/twitter-ideas-spread/tweets_of_person/Emma4Change/'
         onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
         x =[]
         tweet = list()
@@ -104,7 +107,6 @@ def tfidf(virtual):
         print(dict1)
         print("hi")
         #return (cosine_similarity(matrix, matrix), hashtag)
-        
             
             
             
