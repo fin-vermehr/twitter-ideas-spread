@@ -22,8 +22,8 @@ async def getUrl(init):
 	if arg.s != None:
 		arg.s = arg.s.replace(" ", "%20").replace("#", "%23")
 		url+= "%20{0.s}".format(arg)
-	if arg.year != None:
-		url+= "%20until%3A{0.year}-1-1".format(arg)
+	if arg.till != None:
+		url+= "%20until%3A{0.till}".format(arg)
 	if arg.since != None:
 		url+= "%20since%3A{0.since}".format(arg)
 	if arg.fruit:
@@ -53,6 +53,7 @@ async def getFeed(init):
 			html = json_response["items_html"]
 		soup = BeautifulSoup(html, "html.parser")
 		feed = soup.find_all("li", "js-stream-item")
+		print(feed)
 		if init == -1:
 			init = "TWEET-{}-{}".format(feed[-1]["data-item-id"], feed[0]["data-item-id"])
 		else:
@@ -114,7 +115,7 @@ if __name__ == "__main__":
 	ap.add_argument("-u", help="User's Tweets you want to scrape.")
 	ap.add_argument("-s", help="Search for Tweets containing this word or phrase.")
 	ap.add_argument("-o", help="Save output to a file.")
-	ap.add_argument("--year", help="Filter Tweets before specified year.")
+	ap.add_argument("--till", help="Filter Tweets before specified date.")
 	ap.add_argument("--since", help="Filter Tweets sent since date (Example: 2017-12-27).")
 	ap.add_argument("--fruit", help="Display 'low-hanging-fruit' Tweets.", action="store_true")
 	ap.add_argument("--tweets", help="Display Tweets only.", action="store_true")
