@@ -5,6 +5,8 @@ Created on Sat Mar  3 18:43:28 2018
 
 @author: quentinvilchez
 """
+import ast
+import csv
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from os import listdir
@@ -62,8 +64,7 @@ def tfidf(virtual):
     
     """
     if __name__ == '__main__':
-        
-         path = '/Users/quentinvilchez/Documents/GitHub/twitter-ideas-spread/tweets_of_person/Emma4Change/'
+        path = '/Users/quentinvilchez/Documents/GitHub/twitter-ideas-spread/tweets_of_person/Emma4Change/'
         onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
         x =[]
         tweet = list()
