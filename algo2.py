@@ -25,14 +25,8 @@ def virtual_documents(tweets, hashtags):
     for h in hashtags:
         virtual[h] =[]
     for t in tweets:
-        if '#' in t:
-            for h in hashtags:
-                if h in t: 
-                    virtual[h].append(t)
-                else:
-                    pass
-        else:
-            pass 
+        for h in hashtags:
+            virtual[h].append(t)
     return virtual
 
 tokenize = lambda doc: doc.lower().split(" ")
@@ -67,7 +61,7 @@ def tfidf(virtual):
         path = '/Users/quentinvilchez/Documents/GitHub/twitter-ideas-spread/tweets_of_person/Emma4Change/'
         onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
         x =[]
-        tweet = list()
+        tweets = list()
         tweet1 =list()
         y = list()
         hashtags = list()
@@ -83,8 +77,8 @@ def tfidf(virtual):
                     
         for i in tweet1:
             k = i.rstrip()
-            tweet.append(k)
-        
+            tweets.append(k)
+        tweet = [value for value in tweets if '#' in value]
         x0 = [value for value in x if value != '']
        
         for i in x0:
@@ -104,7 +98,7 @@ def tfidf(virtual):
         matrix, hashtag=  tfidf(dict1)
         print(dict1)
         print("hi")
-        #return (cosine_similarity(matrix, matrix), hashtag)
+        return (cosine_similarity(matrix, matrix), hashtag)
         
             
             
