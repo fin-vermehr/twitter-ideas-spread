@@ -38,19 +38,20 @@ The reason for introducing this second population is that we feel that this seco
 \\That is why we would like to focus on two stories, one with a large second population and one with a small second population. We believe, that the outbreaks will be different and that this can be described by our model. We will also compare our model to the simple SEIZ, to determine whether ours can fit the data better.
 
 \item These are the equations that will describe our system:
-\begin{equation} 
-\begin{split}
-\frac{dS_1}{dt} &= -{\beta}_1 S_1\frac{I}{N} -\gamma S_1\frac{Z}{N}\\
-\frac{dS_2}{dt} &= -{\beta}_2 S_2\frac{I}{N}\\
-\frac{dI}{dt} &= {\beta}_1 (1-p)S_1\frac{I}{N} + {\beta}_2 (1-m)S_2\frac{I}{N} + \epsilon E + \mu E\frac{I}{N}\\
-\frac{dE}{dt} &= {\beta}_1 pS_1\frac{I}{N} + {\beta}_2 mS_2\frac{I}{N} + \gamma       lS_1\frac{Z}{N} - \mu E\frac{I}{N} - \epsilon E\\
-\frac{dZ}{dt} &=  \gamma (1-l)S_1\frac{Z}{N}
-\end{split}
-\end{equation}
+\begin{center}
+\[ \begin{cases} 
+      \dot{S_1} &= -{\beta}_1 S_1\frac{I}{N} -\gamma S_1\frac{Z}{N}\\
+      \dot{S_2} &= -{\beta}_2 S_2\frac{I}{N}\\
+      \dot{I} &= {\beta}_1 (1-p)S_1\frac{I}{N} + {\beta}_2 (1-m)S_2\frac{I}{N} + \epsilon E + \mu E\frac{I}{N}\\
+      \dot{E} &= {\beta}_1 pS_1\frac{I}{N} + {\beta}_2 mS_2\frac{I}{N} + \gamma       lS_1\frac{Z}{N} - \mu E\frac{I}{N} - \epsilon E\\
+      \dot{Z} &=\gamma (1-l)S_1\frac{Z}{N}
+   \end{cases}
+\]
+\end{center}
 with,
 \begin{align*}
  N& = S_1 + S_2 + E + Z + I & {\beta}_1 &< {\beta}_2  & 0\leq m<p\leq 1\\
-0&\leq l \leq 1  & \frac{dN}{dt}&=0
+0&\leq l \leq 1  & \dot{N}&=0
 \end{align*}
 \end{itemize}
 \section{Gathering data and analysis:}
@@ -63,14 +64,14 @@ with,
 \begin{figure}[h]
 
 \centering
-\includegraphics[width=0.5\textwidth]{/Users/quentinvilchez/Desktop/workflow.png}
+\includegraphics[width=0.5\textwidth]{workflow.png}
 \caption{Numerical implementation work-flow.}
 \end{figure}
 \end{enumerate}
 
 \end{itemize}
 \section{Expected Results}
-T
+
 \section{References}
 \begin{enumerate}[label={[\arabic*]}]
 \item  L. Bettencourt, A. Cintron-Arias, D. I. Kaiser, and C. Castillo-Chavez. The power of a good idea: Quantitative modeling of the spread of ideas from epidemiological models. PHYSICA A, 364:513–536, 2006.
