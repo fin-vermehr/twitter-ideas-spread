@@ -53,29 +53,47 @@ with,
  N& = S_1 + S_2 + E + Z + I & {\beta}_1 &< {\beta}_2  & 0\leq m<p\leq 1\\
 0&\leq l \leq 1  & \dot{N}&=0
 \end{align*}
+\begin{center}
+    
+
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.5cm,
+                    semithick]
+  \node[state] (S1)                    {$S_1$};
+  \node[state]              (I)[above right of=S1] {$I$};
+  \node[state]              (Z)[below right of=S1] {$Z$};
+  \node[state]              (E)[right of=S1] {$E$};
+  \node[state]              (S2)[right of=I] {$S_2$};
+
+  \path (S1) edge   [bend left]                 node{${\beta}_1(1-p)$} (I);
+  \path (S1) edge   [bend left]                 node{${\beta}_1 p$} (E);
+  \path (S1) edge   [bend right]                 node{${\gamma}l$} (E);
+  \path (S1) edge   [bend right]                 node{${\gamma}(1-l)$} (Z);
+  \path (S2) edge   [bend right]                node{${\beta}_2(1-m)$} (I);
+  \path (S2) edge                   node{${\beta}_2 m$} (E);
+  \path (E) edge    [bend right=40]               node{$\mu$} (I);
+  \path (E) edge                  node{$\epsilon$} (I);
+\end{tikzpicture}
+\end{center}
 \end{itemize}
-\section{Gathering data and analysis:}
+\section{Analysis and Data Fitting:}
 \begin{itemize}
+\item We will first do an analysis of the system of equation by looking at the equilibrium and their stabilities. 
 \item We have been gathering large amounts of data from Twitter. We will use this data in order to:
 \begin{enumerate}
 \item Create hashtag clusterings. These clusterings will allow us to see and understand what topics are close in nature, to the topic that we are trying to describe. These clusterings will also enable us to determine an approximate size for the second susceptible population at $t=0$ and hence the size of the first susceptible population at $t=0$ as well.
 \\To cluster hashtags we have developped two algorithms based on the work of Ali Javed [3] on semantic hashtag clustering in social media. 
-\item Fit the data to the equations. For that we will follow what Fang Jin et al. [2] did. 
+\item Fit the data to the equations. For that we will follow what Fang Jin et al. [2] did. \\
 \begin{figure}[h]
-
 \centering
-<<<<<<< HEAD
-\includegraphics[width=0.5\textwidth]{/Users/quentinvilchez/Documents/GitHub/twitter-ideas-spread/workflow.png}
-=======
 \includegraphics[width=0.5\textwidth]{workflow.png}
->>>>>>> 8631dfc29a02dc058ef32de9406fab20f1193e4d
 \caption{Numerical implementation work-flow.}
 \end{figure}
+
 \end{enumerate}
 
 \end{itemize}
 \section{Expected Results}
-
+We expect the effect of the second population on the . 
 \section{References}
 \begin{enumerate}[label={[\arabic*]}]
 \item  L. Bettencourt, A. Cintron-Arias, D. I. Kaiser, and C. Castillo-Chavez. The power of a good idea: Quantitative modeling of the spread of ideas from epidemiological models. PHYSICA A, 364:513–536, 2006.
