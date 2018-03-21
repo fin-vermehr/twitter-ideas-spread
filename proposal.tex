@@ -33,9 +33,9 @@ We would like to apply a compartment model similar to the SIR model.
 \section{Our Approach:}
 \begin{itemize}
 \item There has been some work done on this topic, specifically by Bettencourt et al. [1], who developped the SEIZ (Susceptibles Exposed Infectives Skeptics) model to describe the adoption of the Feynman diagrams by the scientific community around the world. This model introduced an exposed state and skeptic state, individuals in the exposed state take some time before they begin to believe/react to a story, individuals in the skeptics state do not believe the information and will not react to it. Furthermore, Fang Jin et al. [2] used this model to describe how information propagates on Twitter and demonstrated how this model is able to accurately capture the patterns in the spread of new/rumors on Twitter. 
-\item  We would like to base ourselves on the work these\textit{ individuals}, and in a similar manner to Fang Jin et al. [2] describe how information spreads on Twitter. However, we think that it could be interesting to make a change to the model, by introducing a second susceptible population, which would account for people who have a history of tweeting about topics similar to the one in question. For example, if we study how the \#parkdaleshoting propagates on Twitter, similar topics would be \#guncontrol, \#NRA, etc. So people in the second susceptible population would be people who have tweeted about these topics in the past. \\
+\item  We would like to base ourselves on the work these\textit{ individuals}, and in a similar manner to Fang Jin et al. [2] describe how information spreads on Twitter. However, we think that it could be interesting to make a change to the model, by introducing a second susceptible population, which would account for people who have a history of tweeting about topics similar to the one in question. For example, if we study how the \#parkdaleshooting propagates on Twitter, similar topics would be \#guncontrol, \#NRA, etc. So people in the second susceptible population would be people who have tweeted about these topics in the past. \\
 The reason for introducing this second population is that we feel that this second population has much more significant influence on the virality of certain content. Meaning that a story might become viral in a shorter span of time if there is a large second population and also they might cause other surrounding topics to go viral again. 
-\\That is why we would like to focus on two stories, one with a large second population and one with a small second population. We believe, that the outbreaks will be different and that this can be described by our model. We will also compare our model to the simple SEIZ, to determine whether ours can fit the data better.
+\\That is why we would like to focus on two different kinds of stories, one with a large population that is more susceptible than usual and one with a small population that is more susceptible than usual. We believe, that the outbreaks will be different and that this can be described by our model. We will also compare our model to the simple SEIZ, to determine whether ours can fit the data better.
 
 \item These are the equations that will describe our system:
 \begin{center}
@@ -82,7 +82,7 @@ with,
 \begin{enumerate}
 \item Create hashtag clusterings. These clusterings will allow us to see and understand what topics are close in nature, to the topic that we are trying to describe. These clusterings will also enable us to determine an approximate size for the second susceptible population at $t=0$ and hence the size of the first susceptible population at $t=0$ as well.
 \\To cluster hashtags we have developped two algorithms based on the work of Ali Javed [3] on semantic hashtag clustering in social media. 
-\item Fit the data to the equations. For that we will follow what Fang Jin et al. [2] did. \\
+\item We will estimate unknown parameters by fitting the equations to the data.  For that we will follow what Fang Jin et al. [2] did except that we are going to try to estimate initial susceptible population sizes. The data that will be used for fitting is the cumulative number of tweets with respect to time. \\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.5\textwidth]{workflow.png}
@@ -93,8 +93,12 @@ with,
 
 \end{itemize}
 \section{Expected Results}
+<<<<<<< HEAD
 We expect to see outbreaks that happen earlier, are more intense and last longer when the second population. Since the second population will have a positive feedback on the first one, meaning that since the second population is more likely to get infected, the number of infectives will climb rapidly and therefore more and more individuals from the first population will be infected.
 
+=======
+We expect the introduction of a second more susceptible population will enable us to accurately predict for a given story on twitter its steady state infected population size and the speed at which it reaches its equilibrium state. 
+>>>>>>> 4711fe8b29d3dafe0a432b471000d509fedbde52
 \section{References}
 \begin{enumerate}[label={[\arabic*]}]
 \item  L. Bettencourt, A. Cintron-Arias, D. I. Kaiser, and C. Castillo-Chavez. The power of a good idea: Quantitative modeling of the spread of ideas from epidemiological models. PHYSICA A, 364:513–536, 2006.
