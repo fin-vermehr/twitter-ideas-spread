@@ -1,6 +1,6 @@
 data_1 = readcsv('~/data.csv');
 data_2 = readcsv('~/data.csv');
-
+%{
 function fit_curve()
 % Susceptible populations sizes at t = 0
 iS1 = data_2(1);
