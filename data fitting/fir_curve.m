@@ -1,7 +1,8 @@
-data_1 = csvread('simulated_data.csv');
+
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
+data_1 = csvread('simulated_data.csv');
 % Susceptible populations sizes at t = 0
 iS1 = 3000000;
 iS2 = 30000;
@@ -9,7 +10,7 @@ iS2 = 30000;
 times = data_1(:, 1);
 num_tweets = data_1(:, 2);
 % Initial values of the parameters to be fitted 
-param0 = [0 0 0 0 0 0 0 0 0 0 0];
+param0 = [1 1 1 1 1 0.5 0.5 1 1 1 0.5];
 % param(1) - Infected population at t = 0
 % param(2) - Exposed population at t = 0
 % param(3) - Skeptic population at t = 0
@@ -22,14 +23,22 @@ param0 = [0 0 0 0 0 0 0 0 0 0 0];
 % param(10) - gamma 
 % param(11) - l
 % Define lower and upper bound for the parameters
-lb = [0 0 0 0 0 0 0 0 0 0 0];
-ub = [Inf Inf Inf Inf Inf 1 1 Inf Inf Inf Inf 1];
+N = iS1 + iS2;
+large = 10^7;
+A = [0 0 0 1 -1 0 0 0 0 0 0];
+B = 0;
+LB = zeros(11);
+UB = [N N N large large 1 1 large large large 1];
+% Setting linear equalities
+Aeq = [];
+beq = [];
+nonlcon = [];
 % Declare options for fmincon
 options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
                        'PlotFcns',{@optimplotfval, @optimplotfunccount});
 % Fit the parameters 
-[param,E,exitflag] = fmincon(@(param) loss_function(param, times, num_tweets, iS1, iS2), param0, lb, ub, ...
-    @(param) c(param), options);
+[param,E,exitflag] = fmincon(@(param) loss_function(param, times, num_tweets,...
+    iS1, iS2), param0, A, B, Aeq, beq,LB, UB, nonlcon, options);
 % Display outputs
 display(param)
 display(E)
@@ -47,7 +56,7 @@ ic = [iS1 iS2 param(1:3)];
 % Select only Infected population size
 I = population(:,3);
 % Compute error with respect to data
-error = sum((I-num_tweets').^2);
+error = sum((I-num_tweets).^2);
 end
 
 % Define differential equation
@@ -66,14 +75,4 @@ dxdt = [-beta1*S1*(I/N) - gamma*S1*(Z/N);
         + gamma*l*S1*(Z/N) - mu*E*(I/N) - e*E;
         gamma*(1-l)*S1*(Z/N)
     ];
-end
-
-% Define constraint function
-function difference = c(param)
-% Define constraint: I + E + Z - N_0 <= 0
-c1 = param(1) + param(2) + param(3) - iS1 - iS2 ...
-   - param0(1) - param0(1) - param0(3) ;
-% Define constraint: beta1 - beta2 <= 0
-c2 = param(4) - param(5);
-difference = [c1;c2];
 end
