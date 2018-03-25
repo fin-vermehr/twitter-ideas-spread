@@ -2,13 +2,13 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('simulated_data.csv');
+data_1 = csvread('AustinBombing.csv');
 % Susceptible populations sizes at t = 0
 iS1 = 3000000;
-iS2 = 30000;
+iS2 = 300000;
 % Data used for fitting 
-times = data_1(:, 1);
-num_tweets = data_1(:, 2);
+num_tweets = data_1(:, 1);
+times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
 param0 = [1 1 1 1 1 0.5 0.5 1 1 1 0.5];
 % param(1) - Infected population at t = 0
@@ -40,9 +40,17 @@ options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
 [param,E,exitflag] = fmincon(@(param) loss_function(param, times, num_tweets,...
     iS1, iS2), param0, A, B, Aeq, beq,LB, UB, nonlcon, options);
 % Display outputs
-display(param)
+ic = [iS1 iS2 param(1:3)];
+[~, population] = ode23(@(t, population) ...
+    RHS(t,population,param(4),param(5),param(6),param(7),param(8)...
+    , param(9), param(10), param(11)),times , ic);
+I = population(:,3);
+figure();
+plot(times, I)
+hold on;
+scatter(times, num_tweets)
 display(E)
-display(exitflag)
+display(param)
 end
 
 % Define loss function
