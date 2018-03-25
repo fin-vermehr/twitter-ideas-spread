@@ -64,8 +64,8 @@ ic = [iS1 iS2 param(1:3)];
 % Select only Infected population size
 I = population(:,3);
 % Compute error with respect to data
-error = norm(I-num_tweets)/norm(num_tweets);
-mean_deviation = sum(abs(I - num_tweets))/length(num_tweets)
+error = norm(I-num_tweets)/norm(num_tweets)
+mean_deviation = sum(abs(I - n
 end
 
 % Define differential equation
