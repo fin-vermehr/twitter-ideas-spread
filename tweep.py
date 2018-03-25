@@ -97,7 +97,7 @@ async def getTweets(init):
 		if arg.o != None:
 			print(output.encode('ascii', 'ignore').decode('ascii'), file=open(arg.o, "a"))
 
-		print(output.encode('ascii', 'ignore').decode('ascii'))
+		# print(output.encode('ascii', 'ignore').decode('ascii'))
 
 	return tweets, init
 

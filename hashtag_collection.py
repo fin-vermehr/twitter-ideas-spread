@@ -66,11 +66,12 @@ def find_hashtags(line):
 
 
 def write_data(write_to, read_from):
+    print('Writing DATA')
     f = open(read_from, 'r')
     text_file = f.readlines()
     f.close()
 
-    with open('tweets_of_person/' + write_to + '.csv', 'w') as csvfile:
+    with open(write_to + '.csv', 'w') as csvfile:
         fieldnames = ['ID', 'Date', 'Time', 'Time_Zone', 'Username', 'Tweet', 'Hashtags']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writerow({'ID': 'ID', 'Date': 'Date', 'Time': 'Time', 'Time_Zone': "Time_Zone", 'Username': "Username", 'Tweet': 'Tweet', 'Hashtags': 'Hashtags'})
@@ -91,6 +92,6 @@ def raw_data(twitter_username, parent):
 
     os.system("python3 tweep.py -u " + twitter_username + " -o " + 'raw_data_of_person/' + parent + '/' + twitter_username + "_raw_data.txt --since 2016-01-20")
     try:
-        write_data(parent + '/' + twitter_username + '_processed', 'raw_data_of_person/' + parent + '/' + twitter_username + "_raw_data.txt")
+        write_data('tweets_of_person/' + parent + '/' + twitter_username + '_processed', 'raw_data_of_person/' + parent + '/' + twitter_username + "_raw_data.txt")
     except:
         IOError
