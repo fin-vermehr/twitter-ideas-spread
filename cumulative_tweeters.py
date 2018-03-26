@@ -12,7 +12,7 @@ def clean_data(hashtag_list, event_name):
     # remove all the duplicate accounts tweeting about an event, and sort them by
     # the date created.
     for hashtag in hashtag_list:
-        df = pd.read_csv(hashtag + '.csv')
+        df = pd.read_csv('DeleteFacebook.csv', skiprows=2)
         df.columns = ['time', 'screen_name', 'text']
         df = df.drop_duplicates('screen_name', keep='first')
         df_list.append(df)
@@ -56,5 +56,5 @@ def clean_data(hashtag_list, event_name):
     plt.gcf().autofmt_xdate()
     plt.show()
 
-hashtag_list = ['GreatMillsHighSchool', 'GreatMills', 'marylandschoolshooting']
-clean_data(['CambridgeAnalytica'], 'CambridgeAnalytica')
+hashtag_list = ['DeleteFacebook']
+clean_data(hashtag_list, 'DeleteFacebook')
