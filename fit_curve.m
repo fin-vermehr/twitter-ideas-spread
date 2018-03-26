@@ -1,34 +1,33 @@
-
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
 data_1 = csvread('AustinBombing.csv');
 % Susceptible populations sizes at t = 0
-iS1 = 3000000;
-iS2 = 30000;
 % Data used for fitting 
 num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
-param0 = [100 36 10 10 60 0.5 0.5 1.7 1 6 0.5];
-% param(1) - Infected population at t = 0
-% param(2) - Exposed population at t = 0
-% param(3) - Skeptic population at t = 0
-% param(4) - beta1
-% param(5) - beta2
-% param(6) - p
-% param(7) - m
-% param(8) - e
-% param(9) - mu
-% param(10) - gamma 
-% param(11) - l
+param0 = [3000000 30000 100 36 10 10 60 0.5 0.5 1.7 1 6 0.5];
+% param(1) - initial S1
+% param(2) - initial S2
+% param(3) - Infected population at t = 0
+% param(4) - Exposed population at t = 0
+% param(5) - Skeptic population at t = 0
+% param(6) - beta1
+% param(7) - beta2
+% param(8) - p
+% param(9) - m
+% param(10) - e
+% param(11) - mu
+% param(12) - gamma 
+% param(13) - l
 % Define lower and upper bound for the parameters
-N = iS1 + iS2;
+N = param0(1) + param0(2);
 large = 10^7;
-A = [0 0 0 1 -1 0 0 0 0 0 0];
+A = [0 0 0 0 0 1 -1 0 0 0 0 0 0 ];
 B = 0;
-LB = zeros(11);
-UB = [N N N large large 1 1 large large large 1];
+LB = zeros(13);
+UB = [N N N N N large large 1 1 large large large 1];
 % Setting linear equalities
 Aeq = [];
 beq = [];
@@ -37,13 +36,12 @@ nonlcon = [];
 options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
                        'PlotFcns',{@optimplotfval, @optimplotfunccount});
 % Fit the parameters 
-[param,E,exitflag] = fmincon(@(param) loss_function(param, times, num_tweets,...
-    iS1, iS2), param0, A, B, Aeq, beq,LB, UB, nonlcon, options);
+[param,E,exitflag] = fmincon(@(param) loss_function(param, times, num_tweets), param0, A, B, Aeq, beq,LB, UB, nonlcon, options);
 % Display outputs
-ic = [iS1 iS2 param(1:3)];
+ic = param(1:5);
 [~, population] = ode23(@(t, population) ...
-    RHS(t,population,param(4),param(5),param(6),param(7),param(8)...
-    , param(9), param(10), param(11)),times , ic);
+    RHS(t,population,param(6),param(7),param(8),param(9),param(10)...
+    , param(11), param(12), param(13)),times , ic);
 I = population(:,3);
 figure();
 plot(times, I)
@@ -54,18 +52,17 @@ display(param)
 end
 
 % Define loss function
-function error = loss_function(param, times, num_tweets, iS1, iS2)
+function error = loss_function(param, times, num_tweets)
 % Initial conditions for ode solver
-ic = [iS1 iS2 param(1:3)];
+ic = param(1:5);
 % Solve ode, return population sizes with corresping times
 [~, population] = ode23(@(t, population) ...
-    RHS(t,population,param(4),param(5),param(6),param(7),param(8)...
-    , param(9), param(10), param(11)),times , ic);
+    RHS(t,population,param(6),param(7),param(8),param(9),param(10)...
+    , param(11), param(12), param(13)),times , ic);
 % Select only Infected population size
 I = population(:,3);
 % Compute error with respect to data
-error = norm(I-num_tweets)/norm(num_tweets)
-mean_deviation = sum(abs(I - n
+error = norm(I-num_tweets)/norm(num_tweets);
 end
 
 % Define differential equation
