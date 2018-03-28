@@ -1,4 +1,5 @@
 #!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
+
 import os
 import numpy as np
 import subprocess
@@ -42,5 +43,9 @@ Trebes_dict = {'Carcassonne': 14.2, 'Aude': 5.7, 'ArnaudBeltrame': 5.1,
                'RedouaneLakdim': 3.1, 'France': 2.8, 'Collomb': 1.8, 'Beltrame': 1.6,
                'Lakdim': 1.5, 'attentat': 1.5, 'Macron': 1.2}
 
-for key in Trebes_dict:
-    scraper(0, 21, key, 3)
+GreatMills_dict = {'StonemanDouglas': 2.8, 'Parkland': 6, 'MAGA': 3.2,
+                   'NRA': 10.3, 'AnthonyBorges': 2.8, 'sayfie': 5.2,
+                   'MSDStrong': 3.2, 'guncontrol':3.2, 'MarchForOurLives': 4.2}
+
+for key in GreatMills_dict:
+    scraper(10, 20, key, 3)

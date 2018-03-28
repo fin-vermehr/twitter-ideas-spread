@@ -18,6 +18,10 @@ AppleEvent_dict = {'iPhoneX': 7.2, 'Apple': 4.9, 'iPhone': 1.7,
                    'iPhone8': 3.6, 'AppleWatch': 1.5, 'iPhone6': 1.2,
                    'AppleEvents': 1.1}
 
+GreatMills_dict = {'StonemanDouglas': 2.8, 'Parkland': 6, 'MAGA': 3.2,
+                   'NRA': 10.3, 'AnthonyBorges': 2.8, 'sayfie': 5.2,
+                   'MSDStrong': 3.2, 'guncontrol':3.2, 'MarchForOurLives': 4.2}
+
 hashtag_tweet_dict = dict()
 
 
@@ -67,7 +71,7 @@ def get_population(ratio, event):
         hashtag_tweet_dict[key] = (sum(hashtag_tweet_dict[key]) / len(hashtag_tweet_dict[key])) * event[key] * 0.1 * (3 / 2) * 12
     return hashtag_tweet_dict
 
-s = get_population(1, Trebes_dict)
+s = get_population(1, GreatMills_dict)
 sum = 0
 
 for key in s:
