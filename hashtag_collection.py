@@ -40,27 +40,31 @@ def clean_hashtag(hashtag, tweet, tag_index):
 
 def find_hashtags(line):
     line = line.split(" ", 5)
-    if '#' in line[5]:
-        indices = [i for i in range(len(line[5])) if line[5].startswith('#', i)]
-        hashtag_list = list()
-        if len(indices) > 1:
-            for index in indices:
-                hashtag_end = line[5].find(' ', index)
-                hashtag = line[5][index:hashtag_end]
-                if hashtag.count('#') > 1:
-                    tmp = hashtag[1:].split('#')
-                    for i in tmp:
-                        hashtag_list.append(clean_hashtag(i, line[5], index))
-                else:
-                    hashtag_list.append(clean_hashtag(line[5][index:hashtag_end], line[5], index))
-            return hashtag_list
+    try:
+        if '#' in line[5]:
+            indices = [i for i in range(len(line[5])) if line[5].startswith('#', i)]
+            hashtag_list = list()
+            if len(indices) > 1:
+                for index in indices:
+                    hashtag_end = line[5].find(' ', index)
+                    hashtag = line[5][index:hashtag_end]
+                    if hashtag.count('#') > 1:
+                        tmp = hashtag[1:].split('#')
+                        for i in tmp:
+                            hashtag_list.append(clean_hashtag(i, line[5], index))
+                    else:
+                        hashtag_list.append(clean_hashtag(line[5][index:hashtag_end], line[5], index))
+                return hashtag_list
 
-        else:
-            beginning = indices[0]
-            end = line[5].find(' ', indices[0])
-            hashtag = line[5][beginning: end]
-            hashtag = clean_hashtag(hashtag, line[5], indices[0])
-            return hashtag
+            else:
+                beginning = indices[0]
+                end = line[5].find(' ', indices[0])
+                hashtag = line[5][beginning: end]
+                hashtag = clean_hashtag(hashtag, line[5], indices[0])
+                return hashtag
+    except(IndexError):
+        print(line)
+
     else:
         return None
 
