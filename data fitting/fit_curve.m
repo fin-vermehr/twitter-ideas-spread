@@ -4,31 +4,32 @@
 function fit_curve()
 data_1 = csvread('Trebes.csv');
 % Susceptible populations sizes at t = 0
-iS2 = 30000;
+N = 3000000;
+iS2 = 142200;
 iE = 0;
-iI = 100;
-iZ = 0;
-ic = [iS2 iI iE iZ];
+iI = 10;
+iZ = 1;
+iS1 = N -iS2 - iI;
+ic = [iS1 iS2 iI iE iZ];
 % Data used for fitting 
 num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
-param0 = [3000000 30 30 30 0.5 0.5 0.5 10 10];
-% param(1) - iS1
-% param(2) - beta1
-% param(3) - beta2
-% param(4) - gamma
-% param(5) - p
-% param(6) - l
-% param(7) - m
-% param(8) - mu 
-% param(9) - e
+param0 = [10 10 10 0.5 0.5 0.5 10 10];
+% param(1) - beta1
+% param(2) - beta2
+% param(3) - gamma
+% param(4) - p
+% param(5) - l
+% param(6) - m
+% param(7) - mu 
+% param(8) - e
 % Define lower and upper bound for the parameters
 large = 10^7;
-A = [0 0 0 0 -1 0 1 0 0];
+A = [0 0 0 -1 0 1 0 0];
 B = 0;
-LB = zeros(9);
-UB = [large large large large 1 1 1 large large];
+LB = zeros(8);
+UB = [large large large 1 1 1 large large];
 % Setting linear equalities
 Aeq = [];
 beq = [];
@@ -39,29 +40,28 @@ options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
 % Fit the parameters 
 [param,E,exitflag] = fmincon(@(param) loss_function(param, times, num_tweets,...
     ic), param0, A, B, Aeq, beq,LB, UB, nonlcon, options);
-% Display outputs
-p0 = [param(1) ic];
 [~, population] = ode23(@(t, population) ...
-    RHS(t,population,param(2),param(3), param(4), param(5),param(6),param(7),param(8)...
-    , param(9)),times , p0);
-I = population(:,3);
+    RHS(t,population,param(1), param(2),param(3), param(4), param(5),param(6),param(7),param(8)),times , ic);
+I = log(population(:,3));
+S2 = log(population(:,2));
+S1 = log(population(:,1));
+Ex = log(population(:,4));
+Z = log(population(:,5));
 figure();
-plot(times, I)
+plot(times, [S1 S2 I Ex Z])
+legend('Sus_1','Sus_2','E','I', 'Z')
 hold on;
-scatter(times, num_tweets)
-display(E)
-for n = 1:9
+for n = 1:8
 fprintf('%4.2f\n', param(n))
 end
 end
 
 % Define loss function
 function error = loss_function(param, times, num_tweets, ic)
-p0 = [param(1) ic];
 % Solve ode, return population sizes with corresping times
 [~, population] = ode23(@(t, population) ...
-    RHS(t,population,param(2),param(3),param(4),param(5),param(6)...
-    , param(7), param(8), param(9)),times , p0);
+    RHS(t,population,param(1), param(2),param(3),param(4),param(5),param(6)...
+    , param(7), param(8)),times , ic);
 % Select only Infected population size
 I = population(:,3);
 % Compute error with respect to data
