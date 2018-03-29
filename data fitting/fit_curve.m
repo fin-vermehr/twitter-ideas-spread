@@ -2,11 +2,11 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('AustinBombing.csv');
+data_1 = csvread('Trebes.csv');
 % Susceptible populations sizes at t = 0
-iS2 = 300000;
+iS2 = 30000;
 iE = 0;
-iI = 10;
+iI = 100;
 iZ = 0;
 ic = [iS2 iI iE iZ];
 % Data used for fitting 
@@ -50,7 +50,9 @@ plot(times, I)
 hold on;
 scatter(times, num_tweets)
 display(E)
-display(param)
+for n = 1:9
+fprintf('%4.2f\n', param(n))
+end
 end
 
 % Define loss function
