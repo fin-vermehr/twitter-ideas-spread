@@ -2,7 +2,7 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('AustinBombing.csv');
+data_1 = csvread('CambridgeAnalytica.csv');
 % Susceptible populations sizes at t = 0
 iS1 = 3000000;
 iS2 = 30000;
