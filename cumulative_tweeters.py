@@ -56,5 +56,5 @@ def clean_data(hashtag_list, event_name):
     plt.gcf().autofmt_xdate()
     plt.show()
 
-hashtag_list = ['GreatMillsHighSchool', 'GreatMills', 'marylandschoolshooting']
-clean_data(hashtag_list, 'GreatMills')
+hashtag_list = ['AppleEvents']
+clean_data(hashtag_list, 'AppleEvents')

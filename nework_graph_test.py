@@ -23,7 +23,7 @@ def scrape_twitter(hashtag):
         print (tweet.created_at, tweet.text, tweet.user.screen_name)
         csvWriter.writerow([tweet.created_at, tweet.user.screen_name.encode('utf-8'), tweet.text.encode('utf-8')])
 
-hashtag_list = ['GreatMillsHighSchool', 'GreatMills', 'marylandschoolshooting']
+hashtag_list = ['DeleteFacebook']
 # GreatMillsHighSchool', 'GreatMills', 'marylandschoolshooting
 for hashtag in hashtag_list:
     print hashtag
