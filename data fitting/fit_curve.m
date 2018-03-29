@@ -1,7 +1,7 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('CambridgeAnalytica.csv');
+data_1 = csvread('DeleteFacebook.csv');
 % Susceptible populations sizes at t = 0
 % Data used for fitting 
 num_tweets = data_1(:, 1);
