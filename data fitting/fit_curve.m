@@ -2,10 +2,10 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('Trebes.csv');
+data_1 = csvread('GreatMills.csv');
 % Susceptible populations sizes at t = 0
 N = 3000000;
-iS2 = 142200;
+iS2 = 1000000;
 iE = 0;
 iI = 10;
 iZ = 1;
@@ -26,8 +26,9 @@ param0 = [10 10 10 0.5 0.5 0.5 10 10];
 % param(8) - e
 % Define lower and upper bound for the parameters
 large = 10^7;
-A = [0 0 0 -1 0 1 0 0];
-B = 0;
+A = [0 0 0 -1 0 1 0 0;
+     -1 1 0 0 0 0 0 0];
+B = [0;0];
 LB = zeros(8);
 UB = [large large large 1 1 1 large large];
 % Setting linear equalities
@@ -42,17 +43,20 @@ options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
     ic), param0, A, B, Aeq, beq,LB, UB, nonlcon, options);
 [~, population] = ode23(@(t, population) ...
     RHS(t,population,param(1), param(2),param(3), param(4), param(5),param(6),param(7),param(8)),times , ic);
-I = log(population(:,3));
-S2 = log(population(:,2));
-S1 = log(population(:,1));
-Ex = log(population(:,4));
-Z = log(population(:,5));
+I = log(population(1:100,3));
+S2 = log(population(1:100,2));
+S1 = log(population(1:100,1));
+Ex = log(population(1:100,4));
+Z = log(population(1:100,5));
 figure();
-plot(times, [S1 S2 I Ex Z])
+plot(times(1:100), [S1 S2 I Ex Z])
 legend('Sus_1','Sus_2','E','I', 'Z')
+figure()
+plot(times, population(:,3))
 hold on;
+scatter(times, num_tweets)
 for n = 1:8
-fprintf('%4.2f\n', param(n))
+fprintf('%4.10f\n', param(n))
 end
 end
 
