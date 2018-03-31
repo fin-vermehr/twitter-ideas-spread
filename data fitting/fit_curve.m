@@ -2,10 +2,10 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('DeleteFacebook.csv');
+data_1 = csvread('GreatMills.csv');
 % Susceptible populations sizes at t = 0
 N = 60000000;
-iS2 = 114527;
+iS2 = 97771;
 iE = 0;
 iI = 10;
 iZ = 1;
@@ -15,11 +15,9 @@ ic = [iS1 iS2 iI iE iZ];
 num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
-<<<<<<< HEAD
-param0 = [100 200 20 0.5 0.5 0.5 20 20];
-=======
+
 param0 = [100 100 50 0.5 0.5 0.5 2 1];
->>>>>>> e608cfeeeaad44b3de7f675c5db3b19e6a42c591
+
 % param(1) - beta1
 % param(2) - beta2
 % param(3) - gamma
@@ -58,7 +56,7 @@ legend('Sus_1','Sus_2','E','I', 'Z')
 figure()
 plot(times, [population(:,3) num_tweets])
 legend('Infected', 'Data')
-xlabel('Time/(20min)')
+xlabel('Time/(10min)')
 ylabel('Number of Tweets')
 for n = 1:8
 fprintf('%4.10f\n', param(n))
