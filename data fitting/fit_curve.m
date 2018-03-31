@@ -4,8 +4,8 @@
 function fit_curve()
 data_1 = csvread('AppleEvent.csv');
 % Susceptible populations sizes at t = 0
-N = 60000000;
-iS2 = 41345;
+N = 15000000;
+iS2 = 11850;
 iE = 0;
 iI = 10;
 iZ = 1;
@@ -15,7 +15,7 @@ ic = [iS1 iS2 iI iE iZ];
 num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
-param0 = [5 5 5 0.5 0.5 0.5 5 5];
+param0 = [100 200 20 0.5 0.5 0.5 20 20];
 % param(1) - beta1
 % param(2) - beta2
 % param(3) - gamma
