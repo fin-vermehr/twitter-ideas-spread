@@ -27,7 +27,7 @@ param0 = [5 5 5 0.5 0.5 0.5 5 5];
 % Define lower and upper bound for the parameters
 large = 10^7;
 A = [0 0 0 -1 0 1 0 0;
-     -1 1 0 0 0 0 0 0];
+     1 -1 0 0 0 0 0 0];
 B = [0;0];
 LB = zeros(8);
 UB = [large large large 1 1 1 large large];
