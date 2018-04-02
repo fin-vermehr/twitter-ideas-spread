@@ -1,13 +1,13 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('CambridgeAnalytica.csv');
+data_1 = csvread('DeleteFacebook.csv');
 % Susceptible populations sizes at t = 0
 % Data used for fitting 
 num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
-param0 = [300000 100 100 100 20 0.5 0.5 20 20 20];
+param0 = [60000000 0.5 10 1 200 0.5 0.5 200 200 200];
 % param(1) - Susceptible population at t = 0
 % param(2) - Exposed population at t = 0
 % param(3) - Infected population at t = 0
@@ -45,7 +45,9 @@ plot(times, I)
 hold on;
 scatter(times, num_tweets)
 display(E)
-display(param)
+for n = 1:8
+fprintf('%4.10f\n', param(n))
+end
 end
 
 % Define loss function
@@ -59,7 +61,7 @@ ic = param(1:4);
 % Select only Infected population size
 I = population(:,3);
 % Compute error with respect to data
-error = sum((I-num_tweets).^2);
+error = norm(I-num_tweets)/norm(num_tweets);
 end
 
 % Define differential equation
