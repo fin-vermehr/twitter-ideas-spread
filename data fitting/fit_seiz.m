@@ -1,7 +1,7 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('DeleteFacebook.csv');
+data_1 = csvread('Trebes.csv');
 % Susceptible populations sizes at t = 0
 N = 15000000;
 iS2 = 0;
@@ -15,7 +15,7 @@ num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
 
-param0 = [100 0 100 0.5 0.5 0.5 20 10];
+param0 = [200 0 100 1 1 0.5 20 10];
 % param(1) - beta1
 % param(2) - beta2
 % param(3) - gamma

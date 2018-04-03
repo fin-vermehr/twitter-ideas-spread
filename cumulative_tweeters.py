@@ -1,8 +1,10 @@
+#!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
+
 import pandas as pd
 import datetime
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-
+import matplotlib
 
 def clean_data(hashtag_list, event_name):
     # AustinBombings'GreatMillsHighSchool', 'Maryland', 'GreatMills', 'marylandschoolshooting'
@@ -42,7 +44,7 @@ def clean_data(hashtag_list, event_name):
         elif type(row['time']) is datetime.datetime:
             pass
         else:
-            print type(row['time'])
+            print(type(row['time']))
         time_list.append(time)
         cummulative_tweets += 1
         y_axis.append(cummulative_tweets)
@@ -56,5 +58,5 @@ def clean_data(hashtag_list, event_name):
     plt.gcf().autofmt_xdate()
     plt.show()
 
-hashtag_list = ['DeleteFacebook']
-clean_data(hashtag_list, 'DeleteFacebook')
+hashtag_list = ['AppleEvent']
+clean_data(hashtag_list, 'AppleEvent')
