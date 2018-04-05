@@ -1,10 +1,4 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  3 18:43:28 2018
 
-@author: quentinvilchez
-"""
 import ast
 import csv
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -58,7 +52,7 @@ def tfidf(virtual):
     
     """
     if __name__ == '__main__':
-        path = '/Users/quentinvilchez/Documents/GitHub/twitter-ideas-spread/tweets_of_person/Emma4Change/'
+        path = 'PATH TO A FILE'
         onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
         x =[]
         tweets = list()
