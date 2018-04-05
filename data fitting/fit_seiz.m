@@ -1,18 +1,10 @@
-
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-<<<<<<< HEAD
-data_1 = csvread('Trebes.csv');
-% Susceptible populations sizes at t = 0
-N = 15000000;
-iS2 = 11850;
-=======
 data_1 = csvread('DeleteFacebook.csv');
 % Susceptible populations sizes at t = 0
-N = 60000000;
-iS2 = 114527;
->>>>>>> 50d9db5b43ce0f356b1878003fd78c922b728154
+N = 15000000;
+iS2 = 0;
 iE = 0;
 iI = 10;
 iZ = 1;
@@ -23,7 +15,7 @@ num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
 
-param0 = [100 200 50 0.5 0.5 0.5 2 1];
+param0 = [100 0 100 0.5 0.5 0.5 20 10];
 % param(1) - beta1
 % param(2) - beta2
 % param(3) - gamma
@@ -34,14 +26,13 @@ param0 = [100 200 50 0.5 0.5 0.5 2 1];
 % param(8) - e
 % Define lower and upper bound for the parameters
 large = 10^7;
-A = [0 0 0 -1 0 1 0 0;
-     1 -1 0 0 0 0 0 0];
-B = [0;0];
-LB = zeros(8);
+A = [0 0 0 -1 0 1 0 0];
+B = 0;
+LB = [0 -1 0 0 0 0 0 0];
 UB = [large large large 1 1 1 large large];
 % Setting linear equalities
-Aeq = [];
-beq = [];
+Aeq = [0 1 0 0 0 0 0 0];
+beq = 0;
 nonlcon = [];
 % Declare options for fmincon
 options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
@@ -64,7 +55,6 @@ plot(times, [population(:,3) num_tweets])
 legend('Infected', 'Data')
 xlabel('Time/(10min)')
 ylabel('Number of Tweets')
-figure();
 for n = 1:8
 fprintf('%4.10f\n', param(n))
 end
