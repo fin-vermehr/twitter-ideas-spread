@@ -2,10 +2,24 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
+<<<<<<< HEAD
 data_1 = csvread('Trebes.csv');
 % Susceptible populations sizes at t = 0
 N = 15000000;
 iS2 = 11850;
+=======
+<<<<<<< HEAD
+data_1 = csvread('Trebes.csv');
+% Susceptible populations sizes at t = 0
+N = 15000000;
+iS2 = 11850;
+=======
+data_1 = csvread('DeleteFacebook.csv');
+% Susceptible populations sizes at t = 0
+N = 60000000;
+iS2 = 114527;
+>>>>>>> 50d9db5b43ce0f356b1878003fd78c922b728154
+>>>>>>> ce9fb65850d58bbf1fcc2ba961699fac52d0f5dd
 iE = 0;
 iI = 10;
 iZ = 1;

@@ -91,3 +91,7 @@ def matrix_creation(syn_dict, hashtag_dict):
 def algorithm_one(hashtag_list):
     syn_dict = metaData_algorithm(hashtag_list)
     return matrix_creation(syn_dict, syn_dict)
+
+
+hashtag_list = ['Mondays', 'ShootingParkland']
+print algorithm_one(hashtag_list)
