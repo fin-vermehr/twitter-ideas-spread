@@ -2,10 +2,10 @@
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-data_1 = csvread('GreatMills.csv');
+data_1 = csvread('Trebes.csv');
 % Susceptible populations sizes at t = 0
-N = 60000000;
-iS2 = 97771;
+N = 15000000;
+iS2 = 11850;
 iE = 0;
 iI = 10;
 iZ = 1;
@@ -15,13 +15,8 @@ ic = [iS1 iS2 iI iE iZ];
 num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
-<<<<<<< HEAD
-param0 = [100 200 50 0.5 0.5 0.5 2 1];
-=======
 
 param0 = [100 100 50 0.5 0.5 0.5 2 1];
-
->>>>>>> 16a012140898a81f9fd0c30ea7a406e052a4f485
 % param(1) - beta1
 % param(2) - beta2
 % param(3) - gamma
