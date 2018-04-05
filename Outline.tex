@@ -16,11 +16,14 @@
 \usepackage{float}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
-\author{Q-boy, The Mathematician and A Beautiful Girl}
+\author{Quentin Vilchez, Fin Vermehrhr and Big-B}
 \title{Project Outline}
 \begin{document}
 
 \maketitle
+
+
+
 \usetikzlibrary{arrows,automata}
 \section{Introduction}
 Explain that we will focus on Twitter data and why.
@@ -32,19 +35,21 @@ There are five compartments in the model. The compartments are the \textit{norma
 \begin{center}
     
 
-\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=2.5cm,
+\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=3cm,
                     semithick]
   \node[state] (S1)                    {$S_1$};
-  \node[state]              (I)[above right of=S1] {$I$};
-  \node[state]              (Z)[below right of=S1] {$Z$};
-  \node[state]              (E)[right of=S1] {$E$};
-  \node[state]              (S2)[right of=I] {$S_2$};
+   \node[state]              (S2)[below of=S1] {$S_2$};
+   \node[state]              (E)[right of=S2] {$E$};
+  \node[state]              (I)[right of=E] {$I$};
+  \node[state]              (Z)[above right of=S1] {$Z$};
 
-  \path (S1) edge   [bend left]                 node{${\beta}_1(1-p)$} (I);
+ 
+
+  \path (S1) edge   [left]                 node{${\beta}_1(1-p)$} (I);
   \path (S1) edge   [bend left]                 node{${\beta}_1 p$} (E);
-  \path (S1) edge   [bend right]                 node{${\gamma}l$} (E);
-  \path (S1) edge   [bend right]                 node{${\gamma}(1-l)$} (Z);
-  \path (S2) edge   [bend right]                node{${\beta}_2(1-m)$} (I);
+  \path (S1) edge   [right]                 node{${\gamma}l$} (E);
+  \path (S1) edge   [right]                 node{${\gamma}(1-l)$} (Z);
+  \path (S2) edge   [right]                node{${\beta}_2(1-m)$} (I);
   \path (S2) edge                   node{${\beta}_2 m$} (E);
   \path (E) edge    [bend right=40]               node{$\mu$} (I);
   \path (E) edge                  node{$\epsilon$} (I);
@@ -111,8 +116,25 @@ with,
 \end{tabu}
 \end{center}
 
+\begin{center}
 
+\begin{tikzpicture}[->,>=stealth',shorten >=2pt,auto,node distance=4cm,
+                    semithick]
+  \node[state] (S1)                    {$S_1$};
+  \node[state]              (I)[above right of=S1] {$I$};
+  \node[state]              (Z)[below right of=S1] {$Z$};
+  \node[state]              (E)[right of=S1] {$E$};
+  \node[state]              (S2)[right of=I] {$S_2$};
 
-
+  \path (S1) edge   [bend left]                 node{${\beta}_1(1-p)$} (I);
+  \path (S1) edge   [bend left]                 node{${\beta}_1 p$} (E);
+  \path (S1) edge   [bend right]                 node{${\gamma}l$} (E);
+  \path (S1) edge   [bend right]                 node{${\gamma}(1-l)$} (Z);
+  \path (S2) edge   [bend right]                node{${\beta}_2(1-m)$} (I);
+  \path (S2) edge                   node{${\beta}_2 m$} (E);
+  \path (E) edge    [bend right=40]               node{$\mu$} (I);
+  \path (E) edge                  node{$\epsilon$} (I);
+\end{tikzpicture}
+\end{center}
 
 \end{document}

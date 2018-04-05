@@ -1,18 +1,10 @@
-
 %data_2 = readcsv('~/data.csv');
 
 function fit_curve()
-<<<<<<< HEAD
 data_1 = csvread('Trebes.csv');
 % Susceptible populations sizes at t = 0
 N = 15000000;
-iS2 = 11850;
-=======
-data_1 = csvread('DeleteFacebook.csv');
-% Susceptible populations sizes at t = 0
-N = 60000000;
-iS2 = 114527;
->>>>>>> 50d9db5b43ce0f356b1878003fd78c922b728154
+iS2 = 0;
 iE = 0;
 iI = 10;
 iZ = 1;
@@ -23,7 +15,7 @@ num_tweets = data_1(:, 1);
 times = linspace(0, length(num_tweets) - 1, length(num_tweets));
 % Initial values of the parameters to be fitted 
 
-param0 = [100 200 50 0.5 0.5 0.5 2 1];
+param0 = [200 0 50 0.5 0.5 0.5 2 1];
 % param(1) - beta1
 % param(2) - beta2
 % param(3) - gamma
@@ -34,14 +26,13 @@ param0 = [100 200 50 0.5 0.5 0.5 2 1];
 % param(8) - e
 % Define lower and upper bound for the parameters
 large = 10^7;
-A = [0 0 0 -1 0 1 0 0;
-     1 -1 0 0 0 0 0 0];
-B = [0;0];
-LB = zeros(8);
+A = [];
+B = [];
+LB = [0 -1 0 0 0 0 0 0];
 UB = [large large large 1 1 1 large large];
 % Setting linear equalities
-Aeq = [];
-beq = [];
+Aeq = [0 1 0 0 0 0 0 0];
+beq = [0];
 nonlcon = [];
 % Declare options for fmincon
 options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
@@ -51,23 +42,24 @@ options = optimset('Display','iter','MaxFunEvals',Inf,'MaxIter',Inf,...
     ic), param0, A, B, Aeq, beq,LB, UB, nonlcon, options);
 [~, population] = ode23(@(t, population) ...
     RHS(t,population,param(1), param(2),param(3), param(4), param(5),param(6),param(7),param(8)),times , ic);
-I = population(:,3)/N;
-S2 = population(:,2)/N;
-S1 = population(:,1)/N;
-Ex = population(:,4)/N;
-Z = population(:,5)/N;
+I = population(1:100,3);
+S2 = population(1:100,2);
+S1 = population(1:100,1);
+Ex = population(1:100,4);
+Z = population(1:100,5);
 figure();
-plot(times, [S1 S2 I Ex Z])
+plot(times(1:100), [S1 S2 I Ex Z])
 legend('Sus_1','Sus_2','E','I', 'Z')
-figure();
+figure()
 plot(times, [population(:,3) num_tweets])
 legend('Infected', 'Data')
 xlabel('Time/(10min)')
 ylabel('Number of Tweets')
-figure();
+
 for n = 1:8
 fprintf('%4.10f\n', param(n))
 end
+display(E)
 end
 
 % Define loss function
@@ -79,8 +71,7 @@ function error = loss_function(param, times, num_tweets, ic)
 % Select only Infected population size
 I = population(:,3);
 % Compute error with respect to data
-error = norm(I-num_tweets)/norm(num_tweets);
-mean_deviation = sum(abs(I - num_tweets))/length(num_tweets);
+error = (norm(I-num_tweets)/norm(num_tweets));
 end
 
 % Define differential equation
